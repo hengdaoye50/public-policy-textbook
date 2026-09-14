@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="292pt" viewBox="0 0 440 292">
+  <rect width="440" height="292" fill="#FFFFFF"/>
+  <rect x="16.0" y="24.0" width="250.0" height="182.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <rect x="36.0" y="66.0" width="210.0" height="118.0" rx="0" fill="#FFFFFF" stroke="#1A3A5C" stroke-width="1.6"/>
+  <rect x="56.0" y="104.0" width="170.0" height="62.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="28.0" y="44.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="10" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">政策</text>
+  <text x="28.0" y="58.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">含企业政策、学校政策、行业规则等非公共权力主体的规则</text>
+  <text x="48.0" y="86.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="10" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">公共政策</text>
+  <text x="48.0" y="99.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">经由政治过程、指向公共问题的权威性分配</text>
+  <text x="66.0" y="120.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">具体形式</text>
+  <text x="66.0" y="134.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="start" opacity="1.0">宪法、法律、行政法规、地方性法规</text>
+  <text x="66.0" y="146.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="start" opacity="1.0">部门规章、规范性文件、规划与行动方案</text>
+  <rect x="296.0" y="44.0" width="132.0" height="42.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="362.0" y="61.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">法律（狭义的）</text>
+  <text x="362.0" y="75.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">仅指立法机关制定的规范性文件</text>
+  <defs><marker id="ah13" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="296.0" y1="61.0" x2="266.0" y2="61.0" stroke="#666666" stroke-width="1.1" stroke-dasharray="3.4,2.4" marker-end="url(#ah13)"/>
+  <defs><marker id="ah15" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="266.0" y1="69.0" x2="296.0" y2="69.0" stroke="#666666" stroke-width="1.1" stroke-dasharray="3.4,2.4" marker-end="url(#ah15)"/>
+  <rect x="296.0" y="110.0" width="132.0" height="42.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="362.0" y="127.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">公共管理</text>
+  <text x="362.0" y="141.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">关注执行与管理，不限于政策内容</text>
+  <defs><marker id="ah20" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="296.0" y1="127.0" x2="266.0" y2="127.0" stroke="#666666" stroke-width="1.1" stroke-dasharray="3.4,2.4" marker-end="url(#ah20)"/>
+  <defs><marker id="ah22" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="266.0" y1="135.0" x2="296.0" y2="135.0" stroke="#666666" stroke-width="1.1" stroke-dasharray="3.4,2.4" marker-end="url(#ah22)"/>
+  <rect x="296.0" y="176.0" width="132.0" height="42.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="362.0" y="193.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政治过程</text>
+  <text x="362.0" y="207.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">关注权力与参与，不限于政策产出</text>
+  <defs><marker id="ah27" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="296.0" y1="193.0" x2="266.0" y2="193.0" stroke="#666666" stroke-width="1.1" stroke-dasharray="3.4,2.4" marker-end="url(#ah27)"/>
+  <defs><marker id="ah29" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="266.0" y1="201.0" x2="296.0" y2="201.0" stroke="#666666" stroke-width="1.1" stroke-dasharray="3.4,2.4" marker-end="url(#ah29)"/>
+  <rect x="16.0" y="222.0" width="412.0" height="54.0" rx="0" fill="#FFFFFF" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="30.0" y="241.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">三条判定标准</text>
+  <text x="84.7" y="262.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">① 主体：是否公共权力机构</text>
+  <text x="222.0" y="262.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">② 过程：是否经由政治过程</text>
+  <text x="359.3" y="262.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">③ 指向：是否指向公共问题</text>
+</svg>

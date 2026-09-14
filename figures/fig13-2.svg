@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="254pt" viewBox="0 0 440 254">
+  <rect width="440" height="254" fill="#FFFFFF"/>
+  <rect x="100.0" y="8.0" width="334.0" height="32.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="267.0" y="21.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">组织权威</text>
+  <text x="267.0" y="34.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">对执行行为作出定性：肯定性评价 / 否定性评价</text>
+  <text x="143.0" y="48.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">目标清晰度</text>
+  <text x="240.0" y="48.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">控制方式</text>
+  <text x="348.0" y="48.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">执行形态</text>
+  <rect x="10.0" y="124.0" width="78.0" height="36.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="49.0" y="146.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">决策目标</text>
+  <rect x="108.0" y="54.0" width="70.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <text x="143.0" y="75.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">明确</text>
+  <rect x="204.0" y="54.0" width="70.0" height="32.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <text x="239.0" y="75.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">行为控制</text>
+  <rect x="108.0" y="194.0" width="70.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <text x="143.0" y="215.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">模糊</text>
+  <rect x="204.0" y="194.0" width="70.0" height="32.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <text x="239.0" y="215.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">理念控制</text>
+  <rect x="290.0" y="54.0" width="116.0" height="38.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="348.0" y="71.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">标准化执行</text>
+  <text x="348.0" y="84.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">行为控制下的常规输出</text>
+  <rect x="290.0" y="124.0" width="116.0" height="38.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="348.0" y="141.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">目标替代</text>
+  <text x="348.0" y="154.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">否定性评价：变通</text>
+  <rect x="290.0" y="194.0" width="116.0" height="38.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="348.0" y="211.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">创造性执行</text>
+  <text x="348.0" y="224.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">肯定性评价：因地制宜的创造</text>
+  <defs><marker id="ah25" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="88.0" y1="132.0" x2="108.0" y2="76.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah25)"/>
+  <defs><marker id="ah27" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="88.0" y1="150.0" x2="108.0" y2="208.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah27)"/>
+  <defs><marker id="ah29" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="178.0" y1="70.0" x2="204.0" y2="70.0" stroke="#333333" stroke-width="1.1" marker-end="url(#ah29)"/>
+  <defs><marker id="ah31" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="178.0" y1="70.0" x2="204.0" y2="210.0" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.4" marker-end="url(#ah31)"/>
+  <defs><marker id="ah33" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="178.0" y1="70.0" x2="204.0" y2="70.0" stroke="#333333" stroke-width="1.1" marker-end="url(#ah33)"/>
+  <defs><marker id="ah35" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="178.0" y1="70.0" x2="204.0" y2="210.0" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.4" marker-end="url(#ah35)"/>
+  <defs><marker id="ah37" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="274.0" y1="70.0" x2="290.0" y2="70.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah37)"/>
+  <defs><marker id="ah39" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="274.0" y1="70.0" x2="290.0" y2="140.0" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.4" marker-end="url(#ah39)"/>
+  <defs><marker id="ah41" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="274.0" y1="210.0" x2="290.0" y2="140.0" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.4" marker-end="url(#ah41)"/>
+  <defs><marker id="ah43" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="274.0" y1="210.0" x2="290.0" y2="210.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah43)"/>
+  <line x1="428.0" y1="40.0" x2="428.0" y2="212.0" stroke="#1A3A5C" stroke-width="1.4" opacity="1.0"/>
+  <defs><marker id="ah46" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="428.0" y1="140.0" x2="406.0" y2="140.0" stroke="#666666" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#ah46)"/>
+  <defs><marker id="ah48" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="428.0" y1="212.0" x2="406.0" y2="212.0" stroke="#1A3A5C" stroke-width="1.4" marker-end="url(#ah48)"/>
+  <text x="420.0" y="134.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">否定</text>
+  <text x="420.0" y="206.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="end" opacity="1.0">肯定</text>
+  <defs><marker id="ph52" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <path d="M348,232 L348,242 L49,242 L49,166" fill="none" stroke="#666666" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#ph52)"/>
+  <text x="200.0" y="238.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">反馈</text>
+</svg>

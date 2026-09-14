@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="308pt" viewBox="0 0 440 308">
+  <rect width="440" height="308" fill="#FFFFFF"/>
+  <rect x="6.0" y="14.0" width="428.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="48.0" y="28.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">框架</text>
+  <line x1="90.0" y1="14.0" x2="90.0" y2="36.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="130.0" y="28.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">核心变量</text>
+  <line x1="170.0" y1="14.0" x2="170.0" y2="36.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="204.0" y="28.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">分析单位</text>
+  <line x1="238.0" y1="14.0" x2="238.0" y2="36.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="270.0" y="28.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">能够解释什么</text>
+  <line x1="302.0" y1="14.0" x2="302.0" y2="36.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="332.0" y="28.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">难以解释什么</text>
+  <line x1="362.0" y1="14.0" x2="362.0" y2="36.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="398.0" y="28.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">代表性文献</text>
+  <rect x="6.0" y="36.0" width="428.0" height="28.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="53.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策周期模型</text>
+  <line x1="90.0" y1="36.0" x2="90.0" y2="64.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="53.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">阶段划分</text>
+  <line x1="170.0" y1="36.0" x2="170.0" y2="64.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="53.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策全过程</text>
+  <line x1="238.0" y1="36.0" x2="238.0" y2="64.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="53.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">流程分工定位</text>
+  <line x1="302.0" y1="36.0" x2="302.0" y2="64.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="47.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">因果机制、执</text>
+  <text x="307.0" y="58.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">行再塑造</text>
+  <line x1="362.0" y1="36.0" x2="362.0" y2="64.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="53.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">拉斯韦尔、德利昂</text>
+  <rect x="6.0" y="64.7" width="428.0" height="28.7" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="6.0" y="64.7" width="428.0" height="28.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="81.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">理性—综合与有限理性</text>
+  <line x1="90.0" y1="64.7" x2="90.0" y2="93.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="81.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">信息条件与停止规则</text>
+  <line x1="170.0" y1="64.7" x2="170.0" y2="93.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="81.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">决策者或组织</text>
+  <line x1="238.0" y1="64.7" x2="238.0" y2="93.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="81.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">约束下的决策</text>
+  <line x1="302.0" y1="64.7" x2="302.0" y2="93.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="76.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策体系层面</text>
+  <text x="307.0" y="86.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">变化</text>
+  <line x1="362.0" y1="64.7" x2="362.0" y2="93.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="81.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">西蒙、马奇</text>
+  <rect x="6.0" y="93.3" width="428.0" height="20.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="106.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">渐进主义</text>
+  <line x1="90.0" y1="93.3" x2="90.0" y2="113.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="106.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策基数与增量</text>
+  <line x1="170.0" y1="93.3" x2="170.0" y2="113.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="106.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">年度预算决策</text>
+  <line x1="238.0" y1="93.3" x2="238.0" y2="113.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="106.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">常态下的微调</text>
+  <line x1="302.0" y1="93.3" x2="302.0" y2="113.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="106.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">结构性转向</text>
+  <line x1="362.0" y1="93.3" x2="362.0" y2="113.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="106.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">林德布洛姆</text>
+  <rect x="6.0" y="113.3" width="428.0" height="28.7" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="6.0" y="113.3" width="428.0" height="28.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="130.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">多源流框架</text>
+  <line x1="90.0" y1="113.3" x2="90.0" y2="142.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="130.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">三大源流、政策窗口</text>
+  <line x1="170.0" y1="113.3" x2="170.0" y2="142.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="130.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">议程与方案选择</text>
+  <line x1="238.0" y1="113.3" x2="238.0" y2="142.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="130.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">议程突然开启</text>
+  <line x1="302.0" y1="113.3" x2="302.0" y2="142.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="125.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">窗口的预测与</text>
+  <text x="307.0" y="135.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">分布</text>
+  <line x1="362.0" y1="113.3" x2="362.0" y2="142.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="130.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">金登</text>
+  <rect x="6.0" y="142.0" width="428.0" height="28.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="159.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">间断—均衡</text>
+  <line x1="90.0" y1="142.0" x2="90.0" y2="170.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="153.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策形象、制度场域</text>
+  <text x="95.0" y="164.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">与注意力</text>
+  <line x1="170.0" y1="142.0" x2="170.0" y2="170.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="153.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策子系统、宏</text>
+  <text x="175.0" y="164.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">观政治</text>
+  <line x1="238.0" y1="142.0" x2="238.0" y2="170.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="153.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">长期稳定、突变</text>
+  <text x="243.0" y="164.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">并存</text>
+  <line x1="302.0" y1="142.0" x2="302.0" y2="170.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="153.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">间断的时点与</text>
+  <text x="307.0" y="164.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">幅度</text>
+  <line x1="362.0" y1="142.0" x2="362.0" y2="170.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="159.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">鲍姆加特纳与琼斯</text>
+  <rect x="6.0" y="170.7" width="428.0" height="28.7" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="6.0" y="170.7" width="428.0" height="28.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="187.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">倡导联盟框架</text>
+  <line x1="90.0" y1="170.7" x2="90.0" y2="199.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="182.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">信念三层次、政策学</text>
+  <text x="95.0" y="192.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">习与外部扰动</text>
+  <line x1="170.0" y1="170.7" x2="170.0" y2="199.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="187.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策子系统</text>
+  <line x1="238.0" y1="170.7" x2="238.0" y2="199.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="182.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">联盟长期对峙、</text>
+  <text x="243.0" y="192.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策核心变化</text>
+  <line x1="302.0" y1="170.7" x2="302.0" y2="199.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="182.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">非多元体系的</text>
+  <text x="307.0" y="192.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">适用性</text>
+  <line x1="362.0" y1="170.7" x2="362.0" y2="199.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="182.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">萨巴蒂尔与詹金斯</text>
+  <text x="367.0" y="192.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">-史密斯</text>
+  <rect x="6.0" y="199.4" width="428.0" height="28.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="216.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">制度性理性选择框架</text>
+  <line x1="90.0" y1="199.4" x2="90.0" y2="228.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="216.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">规则层次、行动情境</text>
+  <line x1="170.0" y1="199.4" x2="170.0" y2="228.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="216.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">行动舞台</text>
+  <line x1="238.0" y1="199.4" x2="238.0" y2="228.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="211.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">规则塑造互动与</text>
+  <text x="243.0" y="221.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">结果</text>
+  <line x1="302.0" y1="199.4" x2="302.0" y2="228.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="216.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">强权力不对称</text>
+  <line x1="362.0" y1="199.4" x2="362.0" y2="228.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="216.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">奥斯特罗姆</text>
+  <rect x="6.0" y="228.0" width="428.0" height="28.7" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="6.0" y="228.0" width="428.0" height="28.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="239.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">社会建构与政策设计</text>
+  <text x="48.0" y="250.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">框架</text>
+  <line x1="90.0" y1="228.0" x2="90.0" y2="256.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="239.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">目标群体的社会建构</text>
+  <text x="95.0" y="250.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">与政治权力</text>
+  <line x1="170.0" y1="228.0" x2="170.0" y2="256.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="245.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">目标群体</text>
+  <line x1="238.0" y1="228.0" x2="238.0" y2="256.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="239.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策分配偏向与</text>
+  <text x="243.0" y="250.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">反馈</text>
+  <line x1="302.0" y1="228.0" x2="302.0" y2="256.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="239.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">建构的测量与</text>
+  <text x="307.0" y="250.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">变迁</text>
+  <line x1="362.0" y1="228.0" x2="362.0" y2="256.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="245.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">施奈德与英格拉姆</text>
+  <rect x="6.0" y="256.7" width="428.0" height="20.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="48.0" y="269.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">路径—激励框架</text>
+  <line x1="90.0" y1="256.7" x2="90.0" y2="276.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="95.0" y="269.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">政策路径、激励机制</text>
+  <line x1="170.0" y1="256.7" x2="170.0" y2="276.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="175.0" y="269.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">府际关系执行者</text>
+  <line x1="238.0" y1="256.7" x2="238.0" y2="276.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="243.0" y="269.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">地方执行差异</text>
+  <line x1="302.0" y1="256.7" x2="302.0" y2="276.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="307.0" y="269.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">联邦制情境</text>
+  <line x1="362.0" y1="256.7" x2="362.0" y2="276.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="367.0" y="269.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="start" opacity="1.0">杨宏山</text>
+</svg>

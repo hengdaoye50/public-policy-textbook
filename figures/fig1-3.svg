@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="240pt" viewBox="0 0 440 240">
+  <rect width="440" height="240" fill="#FFFFFF"/>
+  <rect x="16.0" y="30.0" width="96.0" height="140.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <rect x="16.0" y="30.0" width="96.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="64.0" y="45.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">洛维　1964</text>
+  <text x="64.0" y="66.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">分类标准</text>
+  <text x="64.0" y="79.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">成本与收益的分布</text>
+  <line x1="24.0" y1="92.0" x2="104.0" y2="92.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="64.0" y="105.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">所得类型</text>
+  <text x="64.0" y="123.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">分配型</text>
+  <text x="64.0" y="138.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">监管型</text>
+  <text x="64.0" y="153.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">再分配型</text>
+  <rect x="120.0" y="30.0" width="96.0" height="140.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <rect x="120.0" y="30.0" width="96.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="168.0" y="45.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">索尔兹伯里　1968</text>
+  <text x="168.0" y="66.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">分类标准</text>
+  <text x="168.0" y="79.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">约束由谁发起</text>
+  <line x1="128.0" y1="92.0" x2="208.0" y2="92.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="168.0" y="105.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">所得类型</text>
+  <text x="168.0" y="118.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">自我管制型</text>
+  <text x="168.0" y="132.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">被约束者自行发起：避免</text>
+  <text x="168.0" y="142.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">更严的外部干预，抬高进</text>
+  <text x="168.0" y="153.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">入门槛</text>
+  <rect x="224.0" y="30.0" width="96.0" height="140.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <rect x="224.0" y="30.0" width="96.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="272.0" y="45.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">安德森　1975</text>
+  <text x="272.0" y="66.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">分类标准</text>
+  <text x="272.0" y="79.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">内容形态 × 资源形态</text>
+  <line x1="232.0" y1="92.0" x2="312.0" y2="92.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="272.0" y="105.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">所得类型</text>
+  <text x="272.0" y="123.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">内容：实质／程序</text>
+  <text x="272.0" y="138.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">资源：物质／象征</text>
+  <text x="272.0" y="153.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">两维交叉分类</text>
+  <rect x="328.0" y="30.0" width="96.0" height="140.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <rect x="328.0" y="30.0" width="96.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="376.0" y="45.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">萨尔蒙　2002</text>
+  <text x="376.0" y="66.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">分类标准</text>
+  <text x="376.0" y="79.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">工具的内在逻辑</text>
+  <line x1="336.0" y1="92.0" x2="416.0" y2="92.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="376.0" y="105.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">所得类型</text>
+  <text x="376.0" y="123.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">直接供给、补贴、贷款</text>
+  <text x="376.0" y="138.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">担保、税收支出、</text>
+  <text x="376.0" y="153.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">规制、公共信息</text>
+  <rect x="16.0" y="184.0" width="408.0" height="40.0" rx="0" fill="#F2F4F7" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="220.0" y="201.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">洛维、索尔兹伯里按效果分布分类；安德森按内容形态分类；萨尔蒙按手段分类。</text>
+  <text x="220.0" y="216.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">同一项政策可同时是再分配型、以补贴为工具并带有象征意义：分类是比较的尺子，不是唯一的标签。</text>
+</svg>

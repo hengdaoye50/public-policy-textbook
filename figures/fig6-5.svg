@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="296pt" viewBox="0 0 440 296">
+  <rect width="440" height="296" fill="#FFFFFF"/>
+  <rect x="250.0" y="36.0" width="174.0" height="80.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.6"/>
+  <rect x="76.0" y="36.0" width="174.0" height="80.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="76.0" y="116.0" width="174.0" height="80.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="250.0" y="116.0" width="174.0" height="80.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <text x="163.0" y="28.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">制度场域：封闭</text>
+  <text x="337.0" y="28.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">制度场域：扩大</text>
+  <text x="40.0" y="78.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">政策形象：改变</text>
+  <text x="40.0" y="158.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">政策形象：稳定</text>
+  <text x="188.0" y="148.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策垄断下的稳定</text>
+  <text x="153.3" y="168.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">负反馈</text>
+  <text x="177.1" y="168.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">：偏离被推回</text>
+  <text x="188.0" y="72.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">形象改变、场域未变</text>
+  <text x="188.0" y="90.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="middle" opacity="1.0">议题被重新定义，</text>
+  <text x="188.0" y="101.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="middle" opacity="1.0">原有行动者仍占主导</text>
+  <text x="364.0" y="148.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">场域扩大、形象未变</text>
+  <text x="364.0" y="166.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="middle" opacity="1.0">新行动者进入，</text>
+  <text x="364.0" y="177.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="middle" opacity="1.0">争夺仍在原有框架内</text>
+  <text x="364.0" y="64.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">政策间断</text>
+  <text x="308.1" y="86.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">正反馈</text>
+  <text x="331.1" y="86.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="start" opacity="1.0">：小扰动被放大，垄断瓦解</text>
+  <defs><marker id="ph20" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M120,180 Q70,120 118,62 L256,56" fill="none" stroke="#1A3A5C" stroke-width="1.4" marker-end="url(#ph20)"/>
+  <defs><marker id="ph22" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M150,188 Q230,200 258,184 L258,110" fill="none" stroke="#1A3A5C" stroke-width="1.4" marker-end="url(#ph22)"/>
+  <defs><marker id="ah24" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="182.0" y1="202.0" x2="182.0" y2="216.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah24)"/>
+  <text x="182.0" y="231.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="middle" opacity="1.0">机制在时间上的表现</text>
+  <defs><marker id="ah27" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="40.0" y1="256.0" x2="410.0" y2="256.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah27)"/>
+  <path d="M46.0,251.0 L60.0,261.0 L74.0,251.0 L88.0,261.0 L102.0,251.0 L116.0,261.0 L130.0,251.0 L144.0,261.0 L158.0,251.0 L172.0,261.0 L186.0,251.0 L200.0,261.0 L214.0,251.0 L228.0,261.0 L242.0,251.0 L256.0,261.0 L262.0,252.0 L272.0,260.0 L281.0,214.0 L290.0,260.0 L302.0,252.0 L312.0,261.0 L326.0,251.0 L340.0,261.0 L354.0,251.0 L368.0,261.0 L382.0,251.0 L396.0,261.0" fill="none" stroke="#333333" stroke-width="1.3"/>
+  <text x="281.0" y="206.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">间断</text>
+  <text x="140.0" y="278.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">长期小幅调整</text>
+  <text x="410.0" y="278.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">时间</text>
+</svg>

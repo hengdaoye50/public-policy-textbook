@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="272pt" viewBox="0 0 440 272">
+  <rect width="440" height="272" fill="#FFFFFF"/>
+  <rect x="64.0" y="42.0" width="138.0" height="94.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <text x="73.0" y="58.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.2" fill="#666666" text-anchor="start" opacity="1.0">路径明晰 · 激励弱</text>
+  <text x="133.0" y="86.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">变通性执行</text>
+  <text x="133.0" y="106.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">形式合规、实质折扣</text>
+  <rect x="202.0" y="42.0" width="138.0" height="94.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <text x="211.0" y="58.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.2" fill="#666666" text-anchor="start" opacity="1.0">路径明晰 · 激励强</text>
+  <text x="271.0" y="86.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">行政性执行</text>
+  <text x="271.0" y="106.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">照章办事、按进度推进</text>
+  <rect x="64.0" y="136.0" width="138.0" height="94.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <text x="73.0" y="152.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.2" fill="#666666" text-anchor="start" opacity="1.0">路径不明晰 · 激励弱</text>
+  <text x="133.0" y="180.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">象征性执行</text>
+  <text x="133.0" y="200.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">政策悬置，留下文件与会议</text>
+  <rect x="202.0" y="136.0" width="138.0" height="94.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.5"/>
+  <text x="211.0" y="152.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.2" fill="#666666" text-anchor="start" opacity="1.0">路径不明晰 · 激励强</text>
+  <text x="271.0" y="180.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">试验性执行</text>
+  <text x="271.0" y="200.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">开展试点、摸索做法，形成可推广经验</text>
+  <text x="36.0" y="91.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">路径明晰</text>
+  <text x="36.0" y="185.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">路径不明晰</text>
+  <text x="133.0" y="34.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">激励弱</text>
+  <text x="271.0" y="34.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">激励强</text>
+  <defs><marker id="ah20" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="58.0" y1="230.0" x2="58.0" y2="42.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah20)"/>
+  <defs><marker id="ah22" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="64.0" y1="240.0" x2="344.0" y2="240.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah22)"/>
+  <text x="10.0" y="254.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#666666" text-anchor="start" opacity="1.0">政策路径：不明晰 → 明晰</text>
+  <text x="340.0" y="254.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#666666" text-anchor="end" opacity="1.0">激励机制：弱 → 强</text>
+  <rect x="348.0" y="104.0" width="88.0" height="86.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3.4,2.4"/>
+  <text x="392.0" y="124.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="middle" opacity="1.0">适用于单一制条件下的</text>
+  <text x="392.0" y="138.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="middle" opacity="1.0">府际关系分析；</text>
+  <text x="392.0" y="156.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="middle" opacity="1.0">联邦制情境需重新设定</text>
+  <text x="392.0" y="170.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.4" fill="#666666" text-anchor="middle" opacity="1.0">激励来源</text>
+  <line x1="340.0" y1="150.0" x2="348.0" y2="150.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.4,2.2" opacity="1.0"/>
+</svg>

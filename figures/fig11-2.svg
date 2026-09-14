@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="234pt" viewBox="0 0 440 234">
+  <rect width="440" height="234" fill="#FFFFFF"/>
+  <rect x="10.0" y="8.0" width="420.0" height="24.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="45.0" y="23.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">维度</text>
+  <line x1="80.0" y1="8.0" x2="80.0" y2="32.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="23.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">全体一致</text>
+  <line x1="150.0" y1="8.0" x2="150.0" y2="32.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="23.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">绝对多数</text>
+  <line x1="220.0" y1="8.0" x2="220.0" y2="32.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="23.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">简单多数</text>
+  <line x1="290.0" y1="8.0" x2="290.0" y2="32.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="23.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">相对多数</text>
+  <line x1="360.0" y1="8.0" x2="360.0" y2="32.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="23.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">协商共识</text>
+  <rect x="10.0" y="32.0" width="420.0" height="20.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="44.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">决策成本</text>
+  <line x1="80.0" y1="32.0" x2="80.0" y2="52.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="44.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">高｜少数可阻</text>
+  <line x1="150.0" y1="32.0" x2="150.0" y2="52.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="44.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">较高｜需广泛协调</text>
+  <line x1="220.0" y1="32.0" x2="220.0" y2="52.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="44.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">中｜过半即可</text>
+  <line x1="290.0" y1="32.0" x2="290.0" y2="52.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="44.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低｜相对多数即过</text>
+  <line x1="360.0" y1="32.0" x2="360.0" y2="52.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="44.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">高｜反复协商耗时</text>
+  <rect x="10.0" y="52.0" width="420.0" height="20.0" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="10.0" y="52.0" width="420.0" height="20.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="64.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">外部成本</text>
+  <line x1="80.0" y1="52.0" x2="80.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="64.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低｜无人被强加</text>
+  <line x1="150.0" y1="52.0" x2="150.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="64.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">较低｜少数受保护</text>
+  <line x1="220.0" y1="52.0" x2="220.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="64.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">中｜多数可强加</text>
+  <line x1="290.0" y1="52.0" x2="290.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="64.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">高｜多数未必过半</text>
+  <line x1="360.0" y1="52.0" x2="360.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="64.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低｜各方均能接受</text>
+  <rect x="10.0" y="72.0" width="420.0" height="27.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="88.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">决定正当性</text>
+  <line x1="80.0" y1="72.0" x2="80.0" y2="99.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="88.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">最高</text>
+  <line x1="150.0" y1="72.0" x2="150.0" y2="99.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="88.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">高</text>
+  <line x1="220.0" y1="72.0" x2="220.0" y2="99.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="88.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">中</text>
+  <line x1="290.0" y1="72.0" x2="290.0" y2="99.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="88.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低</text>
+  <line x1="360.0" y1="72.0" x2="360.0" y2="99.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="83.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">高｜或流于</text>
+  <text x="395.0" y="93.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">表面一致</text>
+  <rect x="10.0" y="99.7" width="420.0" height="27.7" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="10.0" y="99.7" width="420.0" height="27.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="116.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">决策效率</text>
+  <line x1="80.0" y1="99.7" x2="80.0" y2="127.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="116.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低｜易陷僵局</text>
+  <line x1="150.0" y1="99.7" x2="150.0" y2="127.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="116.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">中</text>
+  <line x1="220.0" y1="99.7" x2="220.0" y2="127.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="116.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">高</text>
+  <line x1="290.0" y1="99.7" x2="290.0" y2="127.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="116.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">最高</text>
+  <line x1="360.0" y1="99.7" x2="360.0" y2="127.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="111.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低｜取决于</text>
+  <text x="395.0" y="121.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">协商条件</text>
+  <rect x="10.0" y="127.3" width="420.0" height="20.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="140.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">少数保护程度</text>
+  <line x1="80.0" y1="127.3" x2="80.0" y2="147.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="140.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">最高｜一票可阻</text>
+  <line x1="150.0" y1="127.3" x2="150.0" y2="147.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="140.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">高</text>
+  <line x1="220.0" y1="127.3" x2="220.0" y2="147.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="140.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低</text>
+  <line x1="290.0" y1="127.3" x2="290.0" y2="147.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="140.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">最低</text>
+  <line x1="360.0" y1="127.3" x2="360.0" y2="147.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="140.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">中高｜强者主导</text>
+  <rect x="10.0" y="147.3" width="420.0" height="20.0" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="10.0" y="147.3" width="420.0" height="20.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="160.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">僵局风险</text>
+  <line x1="80.0" y1="147.3" x2="80.0" y2="167.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="160.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">极高</text>
+  <line x1="150.0" y1="147.3" x2="150.0" y2="167.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="160.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">中</text>
+  <line x1="220.0" y1="147.3" x2="220.0" y2="167.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="160.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低</text>
+  <line x1="290.0" y1="147.3" x2="290.0" y2="167.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="160.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">低</text>
+  <line x1="360.0" y1="147.3" x2="360.0" y2="167.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="160.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">中｜可能形同虚设</text>
+  <rect x="10.0" y="167.3" width="420.0" height="27.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="183.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">典型适用场合</text>
+  <line x1="80.0" y1="167.3" x2="80.0" y2="195.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="178.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">宪政规则</text>
+  <text x="115.0" y="189.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">根本利益</text>
+  <line x1="150.0" y1="167.3" x2="150.0" y2="195.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="178.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">重大事项</text>
+  <text x="185.0" y="189.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">修宪</text>
+  <line x1="220.0" y1="167.3" x2="220.0" y2="195.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="178.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">常规立法</text>
+  <text x="255.0" y="189.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">与预算</text>
+  <line x1="290.0" y1="167.3" x2="290.0" y2="195.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="178.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">多党竞争</text>
+  <text x="325.0" y="189.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">下的选举</text>
+  <line x1="360.0" y1="167.3" x2="360.0" y2="195.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="178.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">分歧大</text>
+  <text x="395.0" y="189.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">需长期认同</text>
+  <rect x="10.0" y="195.0" width="420.0" height="27.7" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="10.0" y="195.0" width="420.0" height="27.7" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="211.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">主要理论依据</text>
+  <line x1="80.0" y1="195.0" x2="80.0" y2="222.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="115.0" y="206.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">布坎南</text>
+  <text x="115.0" y="216.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">与图洛克</text>
+  <line x1="150.0" y1="195.0" x2="150.0" y2="222.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="185.0" y="206.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">布坎南</text>
+  <text x="185.0" y="216.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">与图洛克</text>
+  <line x1="220.0" y1="195.0" x2="220.0" y2="222.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="255.0" y="206.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">孔多塞</text>
+  <text x="255.0" y="216.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">阿罗</text>
+  <line x1="290.0" y1="195.0" x2="290.0" y2="222.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="325.0" y="206.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">麦凯尔维</text>
+  <text x="325.0" y="216.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">谢普斯尔</text>
+  <line x1="360.0" y1="195.0" x2="360.0" y2="222.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="395.0" y="206.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">博曼</text>
+  <text x="395.0" y="216.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">协商民主</text>
+</svg>

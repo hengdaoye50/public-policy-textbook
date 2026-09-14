@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="374pt" viewBox="0 0 440 374">
+  <rect width="440" height="374" fill="#FFFFFF"/>
+  <rect x="2.0" y="0.0" width="436.0" height="28.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="27.0" y="16.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">论证方式</text>
+  <line x1="52.0" y1="0.0" x2="52.0" y2="28.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="11.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">英文名（reasoning</text>
+  <text x="91.0" y="22.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">from）</text>
+  <line x1="130.0" y1="0.0" x2="130.0" y2="28.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="180.0" y="16.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">支撑条件</text>
+  <line x1="230.0" y1="0.0" x2="230.0" y2="28.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="280.0" y="16.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">典型误用</text>
+  <line x1="330.0" y1="0.0" x2="330.0" y2="28.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="384.0" y="16.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">识别特征</text>
+  <rect x="2.0" y="28.0" width="436.0" height="22.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <text x="9.0" y="41.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">一、依赖事实与推理</text>
+  <rect x="2.0" y="50.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="63.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">因果论证</text>
+  <line x1="52.0" y1="50.0" x2="52.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="63.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">cause</text>
+  <line x1="130.0" y1="50.0" x2="130.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="63.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">前因引起后果</text>
+  <line x1="230.0" y1="50.0" x2="230.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="63.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">以先后或相关充因果</text>
+  <line x1="330.0" y1="50.0" x2="330.0" y2="72.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="63.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">问机制与可干预性</text>
+  <rect x="2.0" y="72.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="85.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">概括论证</text>
+  <line x1="52.0" y1="72.0" x2="52.0" y2="94.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="85.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">generalization</text>
+  <line x1="130.0" y1="72.0" x2="130.0" y2="94.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="85.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">由个别推及一般</text>
+  <line x1="230.0" y1="72.0" x2="230.0" y2="94.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="85.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">样本未穷尽相关类型</text>
+  <line x1="330.0" y1="72.0" x2="330.0" y2="94.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="85.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">查样本覆盖了哪些类型</text>
+  <rect x="2.0" y="94.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="107.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">分类论证</text>
+  <line x1="52.0" y1="94.0" x2="52.0" y2="116.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="107.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">classification</text>
+  <line x1="130.0" y1="94.0" x2="130.0" y2="116.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="107.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">依类别归属作判断</text>
+  <line x1="230.0" y1="94.0" x2="230.0" y2="116.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="107.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">类别划分标准模糊</text>
+  <line x1="330.0" y1="94.0" x2="330.0" y2="116.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="107.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">要求出示划分标准</text>
+  <rect x="2.0" y="116.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="129.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">符号论证</text>
+  <line x1="52.0" y1="116.0" x2="52.0" y2="138.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="129.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">sign</text>
+  <line x1="130.0" y1="116.0" x2="130.0" y2="138.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="129.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">现象之间的伴随关系</text>
+  <line x1="230.0" y1="116.0" x2="230.0" y2="138.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="129.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">把伴随关系当作因果</text>
+  <line x1="330.0" y1="116.0" x2="330.0" y2="138.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="129.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">问这种现象能否被干预</text>
+  <rect x="2.0" y="138.0" width="436.0" height="22.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <text x="9.0" y="151.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">二、依赖来源与技术</text>
+  <rect x="2.0" y="160.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="173.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">权威论证</text>
+  <line x1="52.0" y1="160.0" x2="52.0" y2="182.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="173.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">authority</text>
+  <line x1="130.0" y1="160.0" x2="130.0" y2="182.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="173.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">信息源的社会身份</text>
+  <line x1="230.0" y1="160.0" x2="230.0" y2="182.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="173.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">以身份替代论据</text>
+  <line x1="330.0" y1="160.0" x2="330.0" y2="182.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="173.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">分辨身份与论据</text>
+  <rect x="2.0" y="182.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="195.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">方法论证</text>
+  <line x1="52.0" y1="182.0" x2="52.0" y2="204.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="195.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">method</text>
+  <line x1="130.0" y1="182.0" x2="130.0" y2="204.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="195.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">对方法本身的认可</text>
+  <line x1="230.0" y1="182.0" x2="230.0" y2="204.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="195.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">方法悄悄框定议程</text>
+  <line x1="330.0" y1="182.0" x2="330.0" y2="204.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="195.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">问哪些影响没有入算</text>
+  <rect x="2.0" y="204.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="217.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">案例论证</text>
+  <line x1="52.0" y1="204.0" x2="52.0" y2="226.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="217.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">parallel case</text>
+  <line x1="130.0" y1="204.0" x2="130.0" y2="226.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="217.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">同类案例的先例</text>
+  <line x1="230.0" y1="204.0" x2="230.0" y2="226.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="217.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">跳过“在此是否成立”</text>
+  <line x1="330.0" y1="204.0" x2="330.0" y2="226.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="217.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">查制度条件是否相似</text>
+  <rect x="2.0" y="226.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="239.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">类比论证</text>
+  <line x1="52.0" y1="226.0" x2="52.0" y2="248.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="239.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">analogy</text>
+  <line x1="130.0" y1="226.0" x2="130.0" y2="248.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="239.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">事物之间的相同特点</text>
+  <line x1="230.0" y1="226.0" x2="230.0" y2="248.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="239.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">类比点与结论无关</text>
+  <line x1="330.0" y1="226.0" x2="330.0" y2="248.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="239.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">查类比点的相关性</text>
+  <rect x="2.0" y="248.0" width="436.0" height="22.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <text x="9.0" y="261.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">三、依赖主体状态</text>
+  <rect x="2.0" y="270.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="283.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">动机论证</text>
+  <line x1="52.0" y1="270.0" x2="52.0" y2="292.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="283.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">motivation</text>
+  <line x1="130.0" y1="270.0" x2="130.0" y2="292.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="283.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">行动者的意图与价值</text>
+  <line x1="230.0" y1="270.0" x2="230.0" y2="292.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="283.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">以动机否定其论据</text>
+  <line x1="330.0" y1="270.0" x2="330.0" y2="292.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="283.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">动机与论据分开查</text>
+  <rect x="2.0" y="292.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="305.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">直觉论证</text>
+  <line x1="52.0" y1="292.0" x2="52.0" y2="314.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="305.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">intuition</text>
+  <line x1="130.0" y1="292.0" x2="130.0" y2="314.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="305.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">洞察力与隐性知识</text>
+  <line x1="230.0" y1="292.0" x2="230.0" y2="314.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="305.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">以直觉替代论证</text>
+  <line x1="330.0" y1="292.0" x2="330.0" y2="314.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="305.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">问外部如何检验</text>
+  <rect x="2.0" y="314.0" width="436.0" height="22.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <text x="9.0" y="327.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">四、追问价值前提</text>
+  <rect x="2.0" y="336.0" width="436.0" height="22.0" rx="0" fill="#E4EAF1" stroke="none" stroke-width="0"/>
+  <rect x="2.0" y="336.0" width="436.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="27.0" y="349.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">伦理论证</text>
+  <line x1="52.0" y1="336.0" x2="52.0" y2="358.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="91.0" y="349.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">ethics</text>
+  <line x1="130.0" y1="336.0" x2="130.0" y2="358.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="135.0" y="349.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">对善恶的价值判断</text>
+  <line x1="230.0" y1="336.0" x2="230.0" y2="358.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="235.0" y="349.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">以价值宣示代事实</text>
+  <line x1="330.0" y1="336.0" x2="330.0" y2="358.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="335.0" y="349.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">问坚持这一价值的理由</text>
+</svg>

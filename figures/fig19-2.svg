@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="290pt" viewBox="0 0 440 290">
+  <rect width="440" height="290" fill="#FFFFFF"/>
+  <rect x="54.0" y="6.0" width="354.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.3"/>
+  <text x="231.0" y="25.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" fill="#222222" text-anchor="middle" opacity="1.0">政策（设计、给付方式、行政程序）</text>
+  <defs><marker id="ah2" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="122.0" y1="36.0" x2="122.0" y2="60.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah2)"/>
+  <defs><marker id="ah4" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="340.0" y1="36.0" x2="340.0" y2="60.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah4)"/>
+  <text x="112.0" y="51.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="end" opacity="1.0">利用型反馈（资源效应）</text>
+  <text x="350.0" y="51.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">解释型反馈（解释效应）</text>
+  <rect x="54.0" y="60.0" width="136.0" height="44.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="122.0" y="78.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">资源与激励的改变</text>
+  <text x="122.0" y="90.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">收入、服务、组织资源</text>
+  <rect x="272.0" y="60.0" width="136.0" height="44.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="340.0" y="78.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">信息与标签的传递</text>
+  <text x="340.0" y="90.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">权利／恩惠、受益者／受助者</text>
+  <rect x="54.0" y="114.0" width="136.0" height="44.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="122.0" y="137.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">组织能力与政治参与能力的改变</text>
+  <rect x="272.0" y="114.0" width="136.0" height="44.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="340.0" y="137.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">身份认知与政府评价的改变</text>
+  <rect x="54.0" y="168.0" width="136.0" height="44.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="122.0" y="191.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">利益基础上的政治行动</text>
+  <rect x="272.0" y="168.0" width="136.0" height="44.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="340.0" y="191.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政治学习与参与模式</text>
+  <defs><marker id="ah22" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="122.0" y1="104.0" x2="122.0" y2="114.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah22)"/>
+  <defs><marker id="ah24" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="340.0" y1="104.0" x2="340.0" y2="114.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah24)"/>
+  <defs><marker id="ah26" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="122.0" y1="158.0" x2="122.0" y2="168.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah26)"/>
+  <defs><marker id="ah28" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="340.0" y1="158.0" x2="340.0" y2="168.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah28)"/>
+  <rect x="54.0" y="228.0" width="354.0" height="38.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.3"/>
+  <text x="231.0" y="251.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" fill="#222222" text-anchor="middle" opacity="1.0">政治后果：支持联盟、参与水平、议题界定、下一轮政策条件</text>
+  <defs><marker id="ah32" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="122.0" y1="212.0" x2="122.0" y2="228.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah32)"/>
+  <defs><marker id="ah34" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="340.0" y1="212.0" x2="340.0" y2="228.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah34)"/>
+  <line x1="231.0" y1="88.0" x2="231.0" y2="226.0" stroke="#666666" stroke-width="1.1" stroke-dasharray="3,2.5" opacity="1.0"/>
+  <text x="231.0" y="58.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">中介不同</text>
+  <text x="231.0" y="69.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">利益与资源／</text>
+  <text x="231.0" y="80.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">认知与意义</text>
+  <defs><marker id="ph40" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M54.0,247 L26,247 L26,21 L52.0,21" fill="none" stroke="#1A3A5C" stroke-width="1.6" marker-end="url(#ph40)"/>
+  <text x="19.0" y="243.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="start" transform="rotate(-90 19.0 243.0)">反馈：新一轮政策形成的条件</text>
+</svg>

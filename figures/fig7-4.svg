@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="302pt" viewBox="0 0 440 302">
+  <rect width="440" height="302" fill="#FFFFFF"/>
+  <text x="6.0" y="10.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">准备阶段</text>
+  <rect x="6.0" y="18.0" width="130.0" height="36.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="71.0" y="37.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">确定问题与编制问卷</text>
+  <rect x="152.0" y="18.0" width="130.0" height="36.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="217.0" y="37.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">组建异质性专家组</text>
+  <rect x="298.0" y="18.0" width="130.0" height="36.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="363.0" y="37.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">第一轮开放式问卷</text>
+  <defs><marker id="ah7" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="136.0" y1="36.0" x2="152.0" y2="36.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah7)"/>
+  <defs><marker id="ah9" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="282.0" y1="36.0" x2="298.0" y2="36.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah9)"/>
+  <defs><marker id="ph11" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M363,54 L363,60 L122,60 L122,64" fill="none" stroke="#333333" stroke-width="1.3" marker-end="url(#ph11)"/>
+  <rect x="4.0" y="64.0" width="240.0" height="186.0" rx="4" fill="#F2F4F7" stroke="#666666" stroke-width="1.0"/>
+  <text x="124.0" y="78.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">迭代阶段（第二轮至第四轮）</text>
+  <rect x="32.0" y="84.0" width="180.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="122.0" y="97.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">专家独立作答</text>
+  <text x="122.0" y="110.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">背对背，不署名</text>
+  <rect x="32.0" y="132.0" width="180.0" height="40.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="122.0" y="148.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">主持人统计分析</text>
+  <text x="122.0" y="161.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">计算中位数与四分位距</text>
+  <rect x="32.0" y="200.0" width="180.0" height="40.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="122.0" y="216.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">反馈给全体专家</text>
+  <text x="122.0" y="229.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">附四分位之外专家的理由</text>
+  <defs><marker id="ah24" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="122.0" y1="118.0" x2="122.0" y2="132.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah24)"/>
+  <defs><marker id="ah26" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="122.0" y1="172.0" x2="122.0" y2="200.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah26)"/>
+  <defs><marker id="ph28" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M32,220 L16,220 L16,101 L32,101" fill="none" stroke="#1A3A5C" stroke-width="1.6" marker-end="url(#ph28)"/>
+  <text x="34.0" y="186.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="start" opacity="1.0">未收敛则进入下一轮</text>
+  <path d="M340.0,116.0 L414.0,152.0 L340.0,188.0 L266.0,152.0 Z" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="340.0" y="151.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">是否收敛？</text>
+  <text x="340.0" y="163.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">中位数变动＜阈值</text>
+  <text x="340.0" y="173.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">且四分位距收窄</text>
+  <defs><marker id="ph35" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M212,152 L266,152" fill="none" stroke="#333333" stroke-width="1.3" marker-end="url(#ph35)"/>
+  <text x="239.0" y="147.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">每轮末</text>
+  <rect x="266.0" y="204.0" width="148.0" height="48.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="340.0" y="224.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">形成结论</text>
+  <text x="340.0" y="237.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">报告中位数、四分位距与分歧项</text>
+  <defs><marker id="ah41" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="340.0" y1="188.0" x2="340.0" y2="204.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah41)"/>
+  <defs><marker id="ph43" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <path d="M414,152 L428,152 L428,272 L122,272 L122,244" fill="none" stroke="#666666" stroke-width="1.3" stroke-dasharray="5,3" marker-end="url(#ph43)"/>
+  <text x="276.0" y="266.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">否：进入下一轮</text>
+  <text x="436.0" y="288.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">轮次数不等于成功次数；收敛不等于正确</text>
+</svg>

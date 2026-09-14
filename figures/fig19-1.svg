@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="232pt" viewBox="0 0 440 232">
+  <rect width="440" height="232" fill="#FFFFFF"/>
+  <rect x="86.0" y="191.0" width="150.0" height="25.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.3"/>
+  <text x="98.0" y="202.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">1 操纵</text>
+  <text x="98.0" y="213.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">manipulation</text>
+  <rect x="328.0" y="193.5" width="106.0" height="20.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.5"/>
+  <text x="381.0" y="206.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">为既定决定背书</text>
+  <path d="M236.0,203.5 L328,203.5" fill="none" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.5,2.5"/>
+  <rect x="86.0" y="166.0" width="162.0" height="25.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.3"/>
+  <text x="98.0" y="177.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">2 治疗</text>
+  <text x="98.0" y="188.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">therapy</text>
+  <rect x="328.0" y="168.5" width="106.0" height="20.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.5"/>
+  <text x="381.0" y="181.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">把异议当作需矫正的问题</text>
+  <path d="M248.0,178.5 L328,178.5" fill="none" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.5,2.5"/>
+  <rect x="86.0" y="141.0" width="174.0" height="25.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="98.0" y="152.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">3 告知</text>
+  <text x="98.0" y="163.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">informing</text>
+  <rect x="328.0" y="143.5" width="106.0" height="20.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.5"/>
+  <text x="381.0" y="156.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">单向通报，无反馈渠道</text>
+  <path d="M260.0,153.5 L328,153.5" fill="none" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.5,2.5"/>
+  <rect x="86.0" y="116.0" width="186.0" height="25.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="98.0" y="127.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">4 咨询</text>
+  <text x="98.0" y="138.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">consultation</text>
+  <rect x="328.0" y="118.5" width="106.0" height="20.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.5"/>
+  <text x="381.0" y="131.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">听取意见，采纳由政府裁量</text>
+  <path d="M272.0,128.5 L328,128.5" fill="none" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.5,2.5"/>
+  <rect x="86.0" y="91.0" width="198.0" height="25.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="98.0" y="102.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">5 安抚</text>
+  <text x="98.0" y="113.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">placation</text>
+  <rect x="328.0" y="93.5" width="106.0" height="20.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.5"/>
+  <text x="381.0" y="106.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">有席位、无否决权</text>
+  <path d="M284.0,103.5 L328,103.5" fill="none" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.5,2.5"/>
+  <rect x="86.0" y="66.0" width="210.0" height="25.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="98.0" y="77.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">6 伙伴关系</text>
+  <text x="98.0" y="88.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">partnership</text>
+  <rect x="328.0" y="68.5" width="106.0" height="20.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.5"/>
+  <text x="381.0" y="81.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">与政府谈判，权力分享</text>
+  <path d="M296.0,78.5 L328,78.5" fill="none" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.5,2.5"/>
+  <rect x="86.0" y="41.0" width="222.0" height="25.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="98.0" y="52.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">7 授权</text>
+  <text x="98.0" y="63.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">delegated power</text>
+  <rect x="328.0" y="43.5" width="106.0" height="20.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.5"/>
+  <text x="381.0" y="56.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">特定事务上取得决定权</text>
+  <path d="M308.0,53.5 L328,53.5" fill="none" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.5,2.5"/>
+  <rect x="86.0" y="16.0" width="234.0" height="25.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="98.0" y="27.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">8 公民控制</text>
+  <text x="98.0" y="38.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">citizen control</text>
+  <rect x="328.0" y="18.5" width="106.0" height="20.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3,2.5"/>
+  <text x="381.0" y="31.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">完整决定权（项目与资源）</text>
+  <path d="M320.0,28.5 L328,28.5" fill="none" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.5,2.5"/>
+  <path d="M78,192 l-7,0 M78,192 L78,215 M78,215 l-7,0" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="68.0" y="202.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="end" opacity="1.0">无参与</text>
+  <text x="68.0" y="213.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">nonparticipation</text>
+  <path d="M78,92 l-7,0 M78,92 L78,165 M78,165 l-7,0" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="68.0" y="127.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="end" opacity="1.0">象征性参与</text>
+  <text x="68.0" y="138.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">tokenism</text>
+  <path d="M78,17 l-7,0 M78,17 L78,90 M78,90 l-7,0" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="68.0" y="52.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="end" opacity="1.0">公民权力</text>
+  <text x="68.0" y="63.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">citizen power</text>
+</svg>

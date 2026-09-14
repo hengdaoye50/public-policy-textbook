@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="310pt" viewBox="0 0 440 310">
+  <rect width="440" height="310" fill="#FFFFFF"/>
+  <rect x="56.0" y="50.0" width="114.0" height="228.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="218.0" y="50.0" width="114.0" height="228.0" rx="0" fill="#E4EAF1" stroke="#333333" stroke-width="1.2"/>
+  <rect x="56.0" y="14.0" width="114.0" height="26.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="113.0" y="28.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">理性—综合模型</text>
+  <rect x="218.0" y="14.0" width="114.0" height="26.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="275.0" y="28.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">有限理性模型</text>
+  <text x="33.0" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">维度</text>
+  <text x="33.0" y="72.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">信息</text>
+  <text x="113.0" y="72.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">完备信息</text>
+  <text x="275.0" y="72.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">有限且不均衡的信息</text>
+  <line x1="170.0" y1="69.0" x2="218.0" y2="69.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.6,2.2" opacity="1.0"/>
+  <line x1="56.0" y1="88.0" x2="170.0" y2="88.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="218.0" y1="88.0" x2="332.0" y2="88.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="33.0" y="110.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">目标</text>
+  <text x="113.0" y="110.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">明确且稳定的目标</text>
+  <text x="275.0" y="110.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">有时模糊、可能变化的目标</text>
+  <line x1="170.0" y1="107.0" x2="218.0" y2="107.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.6,2.2" opacity="1.0"/>
+  <line x1="56.0" y1="126.0" x2="170.0" y2="126.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="218.0" y1="126.0" x2="332.0" y2="126.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="33.0" y="148.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">备选方案</text>
+  <text x="113.0" y="148.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">穷尽全部备选方案</text>
+  <text x="275.0" y="148.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">在熟悉范围内搜索现成方案</text>
+  <line x1="170.0" y1="145.0" x2="218.0" y2="145.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.6,2.2" opacity="1.0"/>
+  <line x1="56.0" y1="164.0" x2="170.0" y2="164.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="218.0" y1="164.0" x2="332.0" y2="164.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="33.0" y="186.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">后果评价</text>
+  <text x="113.0" y="186.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">预测每一方案的后果并比较</text>
+  <text x="275.0" y="186.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">以满意标准逐项检验</text>
+  <line x1="170.0" y1="183.0" x2="218.0" y2="183.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.6,2.2" opacity="1.0"/>
+  <line x1="56.0" y1="202.0" x2="170.0" y2="202.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="218.0" y1="202.0" x2="332.0" y2="202.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="33.0" y="224.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">停止规则</text>
+  <text x="113.0" y="224.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">搜索至最优</text>
+  <text x="275.0" y="224.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">找到达标方案即停止</text>
+  <line x1="170.0" y1="221.0" x2="218.0" y2="221.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.6,2.2" opacity="1.0"/>
+  <line x1="56.0" y1="240.0" x2="170.0" y2="240.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="218.0" y1="240.0" x2="332.0" y2="240.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="33.0" y="262.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">结果</text>
+  <text x="113.0" y="262.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">选出最优方案</text>
+  <text x="275.0" y="262.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">选出满意方案</text>
+  <line x1="170.0" y1="259.0" x2="218.0" y2="259.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.6,2.2" opacity="1.0"/>
+  <rect x="56.0" y="202.0" width="114.0" height="38.0" rx="0" fill="none" stroke="#1A3A5C" stroke-width="1.6"/>
+  <rect x="218.0" y="202.0" width="114.0" height="38.0" rx="0" fill="none" stroke="#1A3A5C" stroke-width="1.6"/>
+  <text x="192.0" y="293.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="middle" opacity="1.0">假设差异</text>
+  <defs><marker id="ph44" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M332,221 L342,221 L342,288 L348,288" fill="none" stroke="#1A3A5C" stroke-width="1.0" stroke-dasharray="2.6,2.2" marker-end="url(#ph44)"/>
+  <text x="350.0" y="291.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="start" opacity="1.0">停止规则由组织环境塑造</text>
+</svg>

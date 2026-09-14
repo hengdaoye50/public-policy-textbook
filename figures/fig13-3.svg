@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="408pt" viewBox="0 0 440 408">
+  <rect width="440" height="408" fill="#FFFFFF"/>
+  <rect x="202.0" y="8.0" width="228.0" height="26.0" rx="0" fill="#FFFFFF" stroke="#666666" stroke-width="1.1" stroke-dasharray="4,3"/>
+  <text x="316.0" y="25.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">第十六章制度分析对象：央地关系 · 条块关系 · 职责配置</text>
+  <text x="20.0" y="44.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">目标的转换</text>
+  <text x="54.0" y="60.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">原则要求</text>
+  <defs><marker id="ah4" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="54.0" y1="66.0" x2="54.0" y2="78.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah4)"/>
+  <text x="137.0" y="60.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">区域安排</text>
+  <defs><marker id="ah7" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="137.0" y1="66.0" x2="137.0" y2="78.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah7)"/>
+  <text x="220.0" y="60.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">实施方案</text>
+  <defs><marker id="ah10" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="220.0" y1="66.0" x2="220.0" y2="78.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah10)"/>
+  <text x="303.0" y="60.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">具体任务</text>
+  <defs><marker id="ah13" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="303.0" y1="66.0" x2="303.0" y2="78.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah13)"/>
+  <text x="386.0" y="60.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">落地事项</text>
+  <defs><marker id="ah16" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="386.0" y1="66.0" x2="386.0" y2="78.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah16)"/>
+  <rect x="20.0" y="80.0" width="68.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="54.0" y="102.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">中央</text>
+  <rect x="103.0" y="80.0" width="68.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="137.0" y="102.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">省</text>
+  <rect x="186.0" y="80.0" width="68.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="220.0" y="102.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">市</text>
+  <rect x="269.0" y="80.0" width="68.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="303.0" y="102.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">县</text>
+  <rect x="352.0" y="80.0" width="68.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="386.0" y="102.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">乡镇（街道）</text>
+  <text x="20.0" y="148.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">信息的反馈</text>
+  <line x1="24.0" y1="154.0" x2="420.0" y2="154.0" stroke="#333333" stroke-width="1.2" opacity="1.0"/>
+  <defs><marker id="ah30" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="38.0" y1="154.0" x2="24.0" y2="154.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah30)"/>
+  <defs><marker id="ah32" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="54.0" y1="154.0" x2="54.0" y2="116.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah32)"/>
+  <defs><marker id="ah34" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="137.0" y1="154.0" x2="137.0" y2="116.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah34)"/>
+  <defs><marker id="ah36" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="220.0" y1="154.0" x2="220.0" y2="116.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah36)"/>
+  <defs><marker id="ah38" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="303.0" y1="154.0" x2="303.0" y2="116.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah38)"/>
+  <defs><marker id="ah40" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="386.0" y1="154.0" x2="386.0" y2="116.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah40)"/>
+  <text x="240.0" y="172.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">结果上报 · 材料汇总 · 抽查核验</text>
+  <text x="20.0" y="196.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">传导中的三重转换</text>
+  <path d="M20,204 L420,204 L420,224 L20,210 Z" fill="#F2F4F7" stroke="#333333" stroke-width="1.1"/>
+  <text x="414.0" y="219.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="end" opacity="1.0">任务量／附加要求递增</text>
+  <path d="M20,232 L420,232 L420,240 L20,252 Z" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <line x1="24.0" y1="232.0" x2="38.3" y2="246.3" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="33.0" y1="232.0" x2="47.1" y2="246.1" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="42.0" y1="232.0" x2="55.9" y2="245.9" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="51.0" y1="232.0" x2="64.7" y2="245.7" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="60.0" y1="232.0" x2="73.5" y2="245.5" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="69.0" y1="232.0" x2="82.3" y2="245.3" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="78.0" y1="232.0" x2="91.1" y2="245.1" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="87.0" y1="232.0" x2="100.0" y2="245.0" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="96.0" y1="232.0" x2="108.8" y2="244.8" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="105.0" y1="232.0" x2="117.6" y2="244.6" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="114.0" y1="232.0" x2="126.4" y2="244.4" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="123.0" y1="232.0" x2="135.2" y2="244.2" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="132.0" y1="232.0" x2="144.0" y2="244.0" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="141.0" y1="232.0" x2="152.8" y2="243.8" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="150.0" y1="232.0" x2="161.6" y2="243.6" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="159.0" y1="232.0" x2="170.4" y2="243.4" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="168.0" y1="232.0" x2="179.2" y2="243.2" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="177.0" y1="232.0" x2="188.0" y2="243.0" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="186.0" y1="232.0" x2="196.8" y2="242.8" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="195.0" y1="232.0" x2="205.6" y2="242.6" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="204.0" y1="232.0" x2="214.4" y2="242.4" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="213.0" y1="232.0" x2="223.2" y2="242.2" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="222.0" y1="232.0" x2="232.0" y2="242.0" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="231.0" y1="232.0" x2="240.8" y2="241.8" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="240.0" y1="232.0" x2="249.6" y2="241.6" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="249.0" y1="232.0" x2="258.5" y2="241.5" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="258.0" y1="232.0" x2="267.3" y2="241.3" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="267.0" y1="232.0" x2="276.1" y2="241.1" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="276.0" y1="232.0" x2="284.9" y2="240.9" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="285.0" y1="232.0" x2="293.7" y2="240.7" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="294.0" y1="232.0" x2="302.5" y2="240.5" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="303.0" y1="232.0" x2="311.3" y2="240.3" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="312.0" y1="232.0" x2="320.1" y2="240.1" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="321.0" y1="232.0" x2="328.9" y2="239.9" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="330.0" y1="232.0" x2="337.7" y2="239.7" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="339.0" y1="232.0" x2="346.5" y2="239.5" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="348.0" y1="232.0" x2="355.3" y2="239.3" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="357.0" y1="232.0" x2="364.1" y2="239.1" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="366.0" y1="232.0" x2="372.9" y2="238.9" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="375.0" y1="232.0" x2="381.7" y2="238.7" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="384.0" y1="232.0" x2="390.5" y2="238.5" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="393.0" y1="232.0" x2="399.3" y2="238.3" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="402.0" y1="232.0" x2="408.1" y2="238.1" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <line x1="411.0" y1="232.0" x2="417.0" y2="238.0" stroke="#666666" stroke-width="0.6" opacity="1.0"/>
+  <text x="26.0" y="247.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="start" opacity="1.0">配套资源／可用手段递减</text>
+  <path d="M20,260 L420,260 L420,280 L20,266 Z" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.2"/>
+  <text x="414.0" y="275.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="end" opacity="1.0">责任压力递增</text>
+  <rect x="20.0" y="292.0" width="400.0" height="60.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.4"/>
+  <text x="220.0" y="310.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">末端：乡镇与街道、村与社区</text>
+  <rect x="28.0" y="318.0" width="90.0" height="26.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.1"/>
+  <text x="73.0" y="335.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">目标责任制</text>
+  <rect x="126.0" y="318.0" width="90.0" height="26.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.1"/>
+  <text x="171.0" y="335.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">考核排名</text>
+  <rect x="224.0" y="318.0" width="90.0" height="26.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.1"/>
+  <text x="269.0" y="335.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">督察督办</text>
+  <rect x="322.0" y="318.0" width="90.0" height="26.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.1"/>
+  <text x="367.0" y="335.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#222222" text-anchor="middle" opacity="1.0">属地管理</text>
+  <defs><marker id="ah104" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="220.0" y1="352.0" x2="220.0" y2="366.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah104)"/>
+  <rect x="56.0" y="366.0" width="328.0" height="26.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="220.0" y="384.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">执行结果：标准化执行／变通执行／折中治理／创造性执行</text>
+</svg>

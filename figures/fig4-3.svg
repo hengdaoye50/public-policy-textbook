@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="266pt" viewBox="0 0 440 266">
+  <rect width="440" height="266" fill="#FFFFFF"/>
+  <rect x="16.0" y="24.0" width="300.0" height="226.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <rect x="46.0" y="56.0" width="240.0" height="162.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <rect x="78.0" y="88.0" width="176.0" height="98.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="28.0" y="44.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">① 一般环境</text>
+  <text x="200.0" y="44.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">政治、经济、社会、文化、国际</text>
+  <text x="56.0" y="72.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">② 政策领域工作环境</text>
+  <text x="56.0" y="84.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">部门职责惯例、领域利益格局、可动员资源、技术条件、服务对象</text>
+  <text x="88.0" y="106.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">③ 具体决策情境</text>
+  <text x="88.0" y="120.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">本级财力、上级部署、时间压力、突发事件</text>
+  <line x1="86.0" y1="158.0" x2="254.0" y2="158.0" stroke="#1A3A5C" stroke-width="1.4" opacity="1.0"/>
+  <line x1="86.0" y1="153.0" x2="86.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="100.0" y1="153.0" x2="100.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="114.0" y1="153.0" x2="114.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="128.0" y1="153.0" x2="128.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="142.0" y1="153.0" x2="142.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="156.0" y1="153.0" x2="156.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="170.0" y1="153.0" x2="170.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="184.0" y1="153.0" x2="184.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="198.0" y1="153.0" x2="198.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="212.0" y1="153.0" x2="212.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="226.0" y1="153.0" x2="226.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="240.0" y1="153.0" x2="240.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="254.0" y1="153.0" x2="254.0" y2="163.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <text x="166.0" y="174.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">认知筛：政策范式、可思议范围、公众接受度</text>
+  <line x1="78.0" y1="202.0" x2="254.0" y2="202.0" stroke="#1A3A5C" stroke-width="1.4" opacity="1.0"/>
+  <line x1="78.0" y1="197.0" x2="78.0" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="92.7" y1="197.0" x2="92.7" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="107.3" y1="197.0" x2="107.3" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="122.0" y1="197.0" x2="122.0" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="136.7" y1="197.0" x2="136.7" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="151.3" y1="197.0" x2="151.3" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="166.0" y1="197.0" x2="166.0" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="180.7" y1="197.0" x2="180.7" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="195.3" y1="197.0" x2="195.3" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="210.0" y1="197.0" x2="210.0" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="224.7" y1="197.0" x2="224.7" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="239.3" y1="197.0" x2="239.3" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="254.0" y1="197.0" x2="254.0" y2="207.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <text x="166.0" y="216.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">制度筛：法定权限、上位法边界、上级政策要求</text>
+  <line x1="46.0" y1="234.0" x2="286.0" y2="234.0" stroke="#1A3A5C" stroke-width="1.4" opacity="1.0"/>
+  <line x1="46.0" y1="229.0" x2="46.0" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="60.1" y1="229.0" x2="60.1" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="74.2" y1="229.0" x2="74.2" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="88.4" y1="229.0" x2="88.4" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="102.5" y1="229.0" x2="102.5" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="116.6" y1="229.0" x2="116.6" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="130.7" y1="229.0" x2="130.7" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="144.8" y1="229.0" x2="144.8" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="158.9" y1="229.0" x2="158.9" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="173.1" y1="229.0" x2="173.1" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="187.2" y1="229.0" x2="187.2" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="201.3" y1="229.0" x2="201.3" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="215.4" y1="229.0" x2="215.4" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="229.5" y1="229.0" x2="229.5" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="243.6" y1="229.0" x2="243.6" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="257.8" y1="229.0" x2="257.8" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="271.9" y1="229.0" x2="271.9" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <line x1="286.0" y1="229.0" x2="286.0" y2="239.0" stroke="#1A3A5C" stroke-width="0.9" opacity="1.0"/>
+  <text x="166.0" y="248.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">资源筛：财政能力、编制、技术与时间</text>
+  <defs><marker id="ah59" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="350.0" y1="236.0" x2="350.0" y2="40.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah59)"/>
+  <text x="350.0" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">时间</text>
+  <rect x="346.0" y="154.0" width="8.0" height="8.0" rx="4" fill="#1A3A5C" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="360.0" y="150.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#1A3A5C" text-anchor="start" opacity="1.0">政策窗口开启</text>
+  <text x="360.0" y="164.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">窗口期筛选减弱</text>
+  <defs><marker id="ah65" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="344.0" y1="158.0" x2="257.0" y2="158.0" stroke="#1A3A5C" stroke-width="1.3" stroke-dasharray="3.4,2.6" marker-end="url(#ah65)"/>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="292pt" viewBox="0 0 440 292">
+  <rect width="440" height="292" fill="#FFFFFF"/>
+  <text x="44.0" y="40.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">年度</text>
+  <line x1="64.0" y1="46.0" x2="64.0" y2="252.0" stroke="#333333" stroke-width="1.3" opacity="1.0"/>
+  <line x1="288.0" y1="46.0" x2="288.0" y2="252.0" stroke="#1A3A5C" stroke-width="1.2" stroke-dasharray="4,2.6" opacity="1.0"/>
+  <text x="58.0" y="65.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="end" opacity="1.0">2019</text>
+  <rect x="68.0" y="52.0" width="220.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="288.0" y="52.0" width="16.0" height="20.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="58.0" y="95.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="end" opacity="1.0">2020</text>
+  <rect x="68.0" y="82.0" width="220.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="288.0" y="82.0" width="22.0" height="20.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="58.0" y="125.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="end" opacity="1.0">2021</text>
+  <rect x="68.0" y="112.0" width="220.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="288.0" y="112.0" width="14.0" height="20.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="58.0" y="155.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="end" opacity="1.0">2022</text>
+  <rect x="68.0" y="142.0" width="220.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="288.0" y="142.0" width="26.0" height="20.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="58.0" y="185.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="end" opacity="1.0">2023</text>
+  <rect x="68.0" y="172.0" width="220.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="288.0" y="172.0" width="18.0" height="20.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="58.0" y="215.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="end" opacity="1.0">2024</text>
+  <rect x="68.0" y="202.0" width="220.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="288.0" y="202.0" width="24.0" height="20.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="58.0" y="245.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#666666" text-anchor="end" opacity="1.0">2025</text>
+  <rect x="68.0" y="232.0" width="220.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <rect x="288.0" y="232.0" width="20.0" height="20.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="296.0" y="40.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">基数</text>
+  <text x="178.0" y="155.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">过去政策内容（沿用）</text>
+  <text x="434.0" y="40.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#1A3A5C" text-anchor="end" opacity="1.0">新增政策内容（本年度调整）</text>
+  <line x1="330.0" y1="44.0" x2="312.0" y2="50.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <rect x="322.0" y="56.0" width="114.0" height="58.0" rx="0" fill="#F2F4F7" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="379.0" y="79.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">变动幅度小、可逆</text>
+  <text x="379.0" y="95.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">信息要求低、政治成本低</text>
+  <defs><marker id="ah31" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="379.0" y1="116.0" x2="379.0" y2="130.0" stroke="#1A3A5C" stroke-width="1.2" marker-end="url(#ah31)"/>
+  <rect x="322.0" y="132.0" width="114.0" height="46.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1" stroke-dasharray="3.4,2.4"/>
+  <text x="379.0" y="151.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">局限：难以推动结构性调整</text>
+  <text x="379.0" y="166.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">难以解释政策的剧变</text>
+  <defs><marker id="ah36" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="68.0" y1="258.0" x2="334.0" y2="258.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah36)"/>
+  <text x="201.0" y="274.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">政策内容总量</text>
+</svg>

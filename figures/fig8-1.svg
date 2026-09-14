@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="316pt" viewBox="0 0 440 316">
+  <rect width="440" height="316" fill="#FFFFFF"/>
+  <text x="6.0" y="26.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">读法：信息＋依据推出经限定的主张</text>
+  <rect x="6.0" y="156.0" width="112.0" height="80.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="62.0" y="181.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策相关信息</text>
+  <text x="62.0" y="194.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">本市近三年出生人口年均5.2万</text>
+  <text x="62.0" y="205.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">人；公办园学位占比41%；民办</text>
+  <text x="62.0" y="216.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">园平均收费为公办园三倍</text>
+  <text x="130.0" y="202.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">＋</text>
+  <rect x="142.0" y="156.0" width="130.0" height="80.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="207.0" y="181.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">立论依据</text>
+  <text x="207.0" y="194.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">学前教育支出占比过高，会通过生育</text>
+  <text x="207.0" y="205.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">意愿渠道压低出生人口，因此提高公</text>
+  <text x="207.0" y="216.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">办占比兼具教育与人口两方面的意义</text>
+  <text x="207.0" y="150.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">最常缺失的一环</text>
+  <defs><marker id="ah13" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="276.0" y1="196.0" x2="294.0" y2="196.0" stroke="#1A3A5C" stroke-width="1.6" marker-end="url(#ah13)"/>
+  <rect x="296.0" y="48.0" width="136.0" height="62.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="364.0" y="64.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">反驳</text>
+  <text x="364.0" y="77.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">财政压力可能挤占义务教育经费；学</text>
+  <text x="364.0" y="88.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">位扩张快于出生人口下降；民办园或</text>
+  <text x="364.0" y="99.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">转向高端市场</text>
+  <defs><marker id="ah20" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="364.0" y1="110.0" x2="364.0" y2="142.0" stroke="#333333" stroke-width="1.2" stroke-dasharray="4.5,3" marker-end="url(#ah20)"/>
+  <text x="369.0" y="130.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">压低可信程度</text>
+  <rect x="296.0" y="142.0" width="136.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="364.0" y="155.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">修饰语</text>
+  <text x="364.0" y="168.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">在市财力可承受的前提下</text>
+  <rect x="296.0" y="184.0" width="136.0" height="64.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="364.0" y="207.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策主张</text>
+  <text x="364.0" y="220.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">本市应在2027年前把公办园学位占比</text>
+  <text x="364.0" y="230.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">提高到60%</text>
+  <defs><marker id="ah30" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="364.0" y1="176.0" x2="364.0" y2="184.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah30)"/>
+  <rect x="6.0" y="248.0" width="170.0" height="52.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="91.0" y="265.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">支持</text>
+  <text x="91.0" y="278.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">多项研究显示学前教育成本与生育意愿负相关；</text>
+  <text x="91.0" y="288.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">上级规划设有普惠性幼儿园覆盖率指标</text>
+  <defs><marker id="ph36" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M150,248 L150,236" fill="none" stroke="#333333" stroke-width="1.2" stroke-dasharray="4.5,3" marker-end="url(#ph36)"/>
+  <text x="156.0" y="244.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">依据受质疑时补上</text>
+  <text x="436.0" y="286.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">支持与反驳是挂接件：前者上引依据，后者下压限定</text>
+</svg>

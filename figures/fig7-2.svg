@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="274pt" viewBox="0 0 440 274">
+  <rect width="440" height="274" fill="#FFFFFF"/>
+  <path d="M340,124.0 L356,104.0 L436,104.0 L436,144.0 L356,144.0 Z" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.6"/>
+  <text x="396.0" y="116.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">某市电动自行车</text>
+  <text x="396.0" y="127.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">火灾起数</text>
+  <text x="396.0" y="138.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">同比上升</text>
+  <path d="M24,124.0 L340,124.0" fill="none" stroke="#333333" stroke-width="1.6"/>
+  <path d="M118,124.0 L179.0,18.3" fill="none" stroke="#333333" stroke-width="1.5"/>
+  <path d="M136.3,92.3 L123.3,92.3" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="120.3" y="88.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">入户充电方便</text>
+  <path d="M150.9,66.9 L137.9,66.9" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="134.9" y="62.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">担心电池被盗</text>
+  <path d="M165.6,41.6 L152.6,41.6" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <rect x="84.8" y="29.8" width="68.8" height="9.8" rx="2" fill="none" stroke="#666666" stroke-width="1.1" stroke-dasharray="3.4,2.4"/>
+  <text x="119.2" y="37.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">居民安全意识不足</text>
+  <text x="187.0" y="20.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">使用行为</text>
+  <path d="M226,124.0 L287.0,18.3" fill="none" stroke="#333333" stroke-width="1.5"/>
+  <path d="M244.3,92.3 L231.3,92.3" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="228.3" y="88.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">处罚依据缺失</text>
+  <path d="M258.9,66.9 L245.9,66.9" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="242.9" y="62.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">配建标准执行不严</text>
+  <path d="M273.6,41.6 L260.6,41.6" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <rect x="177.6" y="29.8" width="84.0" height="9.8" rx="3" fill="none" stroke="#1A3A5C" stroke-width="1.6"/>
+  <text x="219.6" y="37.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">物业劝阻缺乏后续约束</text>
+  <text x="295.0" y="20.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">规则制度</text>
+  <path d="M326,124.0 L387.0,18.3" fill="none" stroke="#333333" stroke-width="1.5"/>
+  <path d="M344.3,92.3 L331.3,92.3" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="328.3" y="88.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">阻车系统未普及</text>
+  <path d="M358.9,66.9 L345.9,66.9" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="342.9" y="62.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">充电接口不兼容</text>
+  <path d="M373.6,41.6 L360.6,41.6" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="357.6" y="37.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">无统一监管平台</text>
+  <text x="395.0" y="20.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">技术手段</text>
+  <path d="M118,124.0 L179.0,229.7" fill="none" stroke="#333333" stroke-width="1.5"/>
+  <path d="M136.3,155.7 L123.3,155.7" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="120.3" y="166.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">老旧改造无专项</text>
+  <path d="M150.9,181.1 L137.9,181.1" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="134.9" y="192.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">只补设备不补运维</text>
+  <path d="M165.6,206.4 L152.6,206.4" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="149.6" y="217.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">补贴标准偏低</text>
+  <text x="187.0" y="233.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">资源投入</text>
+  <path d="M226,124.0 L287.0,229.7" fill="none" stroke="#333333" stroke-width="1.5"/>
+  <path d="M244.3,155.7 L231.3,155.7" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="228.3" y="166.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">各管一段</text>
+  <path d="M258.9,181.1 L245.9,181.1" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="242.9" y="192.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">缺少牵头单位</text>
+  <path d="M273.6,206.4 L260.6,206.4" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="257.6" y="217.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">联合执法难组织</text>
+  <text x="295.0" y="233.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">部门协同</text>
+  <path d="M326,124.0 L387.0,229.7" fill="none" stroke="#333333" stroke-width="1.5"/>
+  <path d="M344.3,155.7 L331.3,155.7" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="328.3" y="166.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">充电棚选址偏远</text>
+  <path d="M358.9,181.1 L345.9,181.1" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <text x="342.9" y="192.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="end" opacity="1.0">运营电价偏高</text>
+  <path d="M373.6,206.4 L360.6,206.4" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <rect x="300.4" y="199.8" width="61.2" height="19.6" rx="3" fill="none" stroke="#1A3A5C" stroke-width="1.6"/>
+  <text x="331.0" y="207.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">充电口与保有量</text>
+  <text x="331.0" y="217.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">之比偏低</text>
+  <text x="395.0" y="233.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">设施供给</text>
+  <rect x="6.0" y="248.0" width="13.0" height="8.0" rx="2" fill="none" stroke="#1A3A5C" stroke-width="1.5"/>
+  <text x="23.0" y="256.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="start" opacity="1.0">要因（已交叉验证）</text>
+  <rect x="120.0" y="248.0" width="13.0" height="8.0" rx="2" fill="none" stroke="#666666" stroke-width="1.1" stroke-dasharray="3.4,2.4"/>
+  <text x="137.0" y="256.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">已排除</text>
+  <text x="178.0" y="256.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">“居民安全意识不足”予以排除：宣传持续三年，投诉仍增长。</text>
+</svg>

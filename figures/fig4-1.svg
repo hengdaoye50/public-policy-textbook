@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="296pt" viewBox="0 0 440 296">
+  <rect width="440" height="296" fill="#FFFFFF"/>
+  <rect x="140.0" y="24.0" width="160.0" height="72.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="220.0" y="45.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政治体系：制度、过程与行为</text>
+  <text x="220.0" y="59.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">纵向层级、横向分工、监督与制衡、政党、利</text>
+  <text x="220.0" y="70.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">益集团、选举行为、行政机构、权力机关与司</text>
+  <text x="220.0" y="80.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">法机关</text>
+  <rect x="16.0" y="170.0" width="160.0" height="92.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="96.0" y="207.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">社会和经济状况</text>
+  <text x="96.0" y="220.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">财产与收入、就业、教育、环境质量、贫困、</text>
+  <text x="96.0" y="231.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">人口构成、健康与寿命、不平等</text>
+  <rect x="264.0" y="170.0" width="160.0" height="92.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="344.0" y="201.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">公共政策</text>
+  <text x="344.0" y="215.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">公共服务权利、教育政策、福利政策、卫生政</text>
+  <text x="344.0" y="226.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">策、司法、税收、收支政策、国防政策、公共</text>
+  <text x="344.0" y="236.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">安全政策</text>
+  <defs><marker id="ah14" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="120.0" y1="170.0" x2="168.0" y2="96.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah14)"/>
+  <defs><marker id="ah16" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="182.0" y1="96.0" x2="134.0" y2="170.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah16)"/>
+  <text x="128.0" y="128.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">A</text>
+  <text x="174.0" y="128.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">E</text>
+  <defs><marker id="ah20" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="272.0" y1="96.0" x2="320.0" y2="170.0" stroke="#1A3A5C" stroke-width="1.4" marker-end="url(#ah20)"/>
+  <defs><marker id="ah22" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="306.0" y1="170.0" x2="258.0" y2="96.0" stroke="#1A3A5C" stroke-width="1.4" marker-end="url(#ah22)"/>
+  <text x="300.0" y="128.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">B</text>
+  <text x="266.0" y="128.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">F</text>
+  <defs><marker id="ah26" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="176.0" y1="200.0" x2="264.0" y2="200.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah26)"/>
+  <defs><marker id="ah28" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="264.0" y1="218.0" x2="176.0" y2="218.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah28)"/>
+  <text x="220.0" y="194.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">C</text>
+  <text x="220.0" y="232.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">D</text>
+  <text x="16.0" y="272.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">A 社会状况→政治体系　B 政治体系→公共政策　C 社会状况→公共政策</text>
+  <text x="16.0" y="284.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="start" opacity="1.0">D 公共政策→社会状况　E 政治体系→社会状况　F 公共政策→政治体系</text>
+</svg>

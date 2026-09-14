@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="284pt" viewBox="0 0 440 284">
+  <rect width="440" height="284" fill="#FFFFFF"/>
+  <text x="220.0" y="11.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">策略匹配</text>
+  <text x="14.0" y="11.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">四类障碍</text>
+  <text x="426.0" y="11.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="end" opacity="1.0">对应策略</text>
+  <rect x="14.0" y="16.0" width="188.0" height="50.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="108.0" y="35.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">认知与心理障碍</text>
+  <text x="108.0" y="48.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">沉没成本、承认失败的代价</text>
+  <rect x="238.0" y="16.0" width="188.0" height="50.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="332.0" y="35.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">重新界定问题与归因</text>
+  <text x="332.0" y="48.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">把终结表述为改进</text>
+  <defs><marker id="ah9" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="205.0" y1="41.0" x2="235.0" y2="41.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah9)"/>
+  <rect x="14.0" y="72.0" width="188.0" height="50.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="108.0" y="91.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">组织障碍</text>
+  <text x="108.0" y="104.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">机构、编制与专业身份的存续压力</text>
+  <rect x="238.0" y="72.0" width="188.0" height="50.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="332.0" y="91.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">人员安置与职能分流</text>
+  <text x="332.0" y="104.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">保留部分组织能力</text>
+  <defs><marker id="ah17" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="205.0" y1="97.0" x2="235.0" y2="97.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah17)"/>
+  <rect x="14.0" y="128.0" width="188.0" height="50.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="108.0" y="147.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">利益障碍</text>
+  <text x="108.0" y="160.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">受损者集中、受益者分散的非对称组织能力</text>
+  <rect x="238.0" y="128.0" width="188.0" height="50.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="332.0" y="147.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">补偿受损者、扩大支持联盟</text>
+  <text x="332.0" y="160.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">以新政策包装终结行动</text>
+  <defs><marker id="ah25" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="205.0" y1="153.0" x2="235.0" y2="153.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah25)"/>
+  <rect x="14.0" y="184.0" width="188.0" height="50.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="108.0" y="203.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">法律与程序障碍</text>
+  <text x="108.0" y="216.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">立法程序与合法性要求</text>
+  <rect x="238.0" y="184.0" width="188.0" height="50.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="332.0" y="203.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">以政策替代与缩减规避立法表决</text>
+  <text x="332.0" y="216.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">或以更高位阶文件推进</text>
+  <defs><marker id="ah33" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="205.0" y1="209.0" x2="235.0" y2="209.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah33)"/>
+  <rect x="14.0" y="242.0" width="412.0" height="26.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="24.0" y="259.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">时机窗口打开</text>
+  <text x="244.0" y="259.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#222222" text-anchor="middle" opacity="1.0">焦点事件　领导层更替　评估结论明确　财政压力上升</text>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="226pt" viewBox="0 0 440 226">
+  <rect width="440" height="226" fill="#FFFFFF"/>
+  <rect x="16.0" y="50.0" width="62.0" height="30.3" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="16.0" y="80.3" width="62.0" height="30.3" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="16.0" y="110.6" width="62.0" height="30.3" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="16.0" y="140.9" width="62.0" height="30.3" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="16.0" y="18.0" width="408.0" height="32.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="47.0" y="36.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0"></text>
+  <line x1="78.0" y1="18.0" x2="78.0" y2="50.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="121.2" y="36.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0"></text>
+  <line x1="164.5" y1="18.0" x2="164.5" y2="50.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="207.8" y="36.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0"></text>
+  <line x1="251.0" y1="18.0" x2="251.0" y2="50.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="294.2" y="36.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0"></text>
+  <line x1="337.5" y1="18.0" x2="337.5" y2="50.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="380.8" y="36.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0"></text>
+  <rect x="16.0" y="50.0" width="408.0" height="30.3" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="47.0" y="68.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">观测点</text>
+  <line x1="78.0" y1="50.0" x2="78.0" y2="80.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="83.0" y="68.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">社会净效用总量</text>
+  <line x1="164.5" y1="50.0" x2="164.5" y2="80.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="169.5" y="68.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">行为准则能否普遍化</text>
+  <line x1="251.0" y1="50.0" x2="251.0" y2="80.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="68.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">最少受惠者的处境</text>
+  <line x1="337.5" y1="50.0" x2="337.5" y2="80.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="342.5" y="62.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">共同体的自我理解与</text>
+  <text x="342.5" y="73.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">领域边界</text>
+  <rect x="16.0" y="80.3" width="408.0" height="30.3" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="47.0" y="98.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">权重落点</text>
+  <line x1="78.0" y1="80.3" x2="78.0" y2="110.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="83.0" y="98.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">总量</text>
+  <line x1="164.5" y1="80.3" x2="164.5" y2="110.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="169.5" y="98.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">手段与程序</text>
+  <line x1="251.0" y1="80.3" x2="251.0" y2="110.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="98.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">最差者的绝对水平</text>
+  <line x1="337.5" y1="80.3" x2="337.5" y2="110.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="342.5" y="92.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">认同、团结、领域自</text>
+  <text x="342.5" y="104.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">洽</text>
+  <rect x="16.0" y="110.6" width="408.0" height="30.3" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="47.0" y="123.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">对政策的直接</text>
+  <text x="47.0" y="134.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">要求</text>
+  <line x1="78.0" y1="110.6" x2="78.0" y2="140.9" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="83.0" y="128.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">使净收益最大</text>
+  <line x1="164.5" y1="110.6" x2="164.5" y2="140.9" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="169.5" y="123.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">不欺骗、不把人不当</text>
+  <text x="169.5" y="134.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">人、须给理由</text>
+  <line x1="251.0" y1="110.6" x2="251.0" y2="140.9" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="123.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">不平等须使最差者更</text>
+  <text x="256.0" y="134.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">好</text>
+  <line x1="337.5" y1="110.6" x2="337.5" y2="140.9" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="342.5" y="128.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">阻止善的跨领域支配</text>
+  <rect x="16.0" y="140.9" width="408.0" height="30.3" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="47.0" y="159.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">最怕什么</text>
+  <line x1="78.0" y1="140.9" x2="78.0" y2="171.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="83.0" y="159.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">少数人被牺牲</text>
+  <line x1="164.5" y1="140.9" x2="164.5" y2="171.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="169.5" y="159.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">极端情境下的僵化</text>
+  <line x1="251.0" y1="140.9" x2="251.0" y2="171.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="153.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">定义谁是“最少受惠</text>
+  <text x="256.0" y="164.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">者”</text>
+  <line x1="337.5" y1="140.9" x2="337.5" y2="171.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="342.5" y="153.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">滑向传统辩护与相对</text>
+  <text x="342.5" y="164.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#333333" text-anchor="start" opacity="1.0">主义</text>
+  <text x="59.2" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">功利主义</text>
+  <text x="59.2" y="43.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">（边沁、密尔）</text>
+  <text x="145.8" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">义务论</text>
+  <text x="145.8" y="43.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">（康德）</text>
+  <text x="232.2" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">罗尔斯</text>
+  <text x="232.2" y="43.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">（差别原则）</text>
+  <text x="318.8" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">社群主义</text>
+  <text x="318.8" y="43.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">（桑德尔、沃尔泽）</text>
+  <rect x="16.0" y="179.2" width="408.0" height="26.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="220.0" y="196.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#1A3A5C" text-anchor="middle" opacity="1.0">同一份成本收益数据，在四套判据下可能得出四种不同结论。</text>
+</svg>

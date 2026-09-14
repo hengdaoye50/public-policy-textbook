@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="212pt" viewBox="0 0 440 212">
+  <rect width="440" height="212" fill="#FFFFFF"/>
+  <rect x="2.0" y="0.0" width="434.0" height="24.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="33.0" y="15.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0"></text>
+  <line x1="64.0" y1="0.0" x2="64.0" y2="24.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="126.0" y="15.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">外推预测</text>
+  <line x1="188.0" y1="0.0" x2="188.0" y2="24.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="250.0" y="15.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">理论预测</text>
+  <line x1="312.0" y1="0.0" x2="312.0" y2="24.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="374.0" y="15.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">判断预测</text>
+  <rect x="2.0" y="24.0" width="434.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="33.0" y="37.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">推理路径</text>
+  <line x1="64.0" y1="24.0" x2="64.0" y2="46.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="69.0" y="37.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">归纳</text>
+  <line x1="188.0" y1="24.0" x2="188.0" y2="46.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="193.0" y="37.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">演绎</text>
+  <line x1="312.0" y1="24.0" x2="312.0" y2="46.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="317.0" y="37.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">经验</text>
+  <rect x="2.0" y="46.0" width="434.0" height="28.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="33.0" y="62.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">代表方法</text>
+  <line x1="64.0" y1="46.0" x2="64.0" y2="74.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="69.0" y="57.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">简单平均、加权平均、</text>
+  <text x="69.0" y="68.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">移动平均、指数平滑</text>
+  <line x1="188.0" y1="46.0" x2="188.0" y2="74.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="193.0" y="57.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">线性回归与因果模型、队列要素</text>
+  <text x="193.0" y="68.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">法、投入产出分析、系统动力学</text>
+  <line x1="312.0" y1="46.0" x2="312.0" y2="74.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="317.0" y="57.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">德尔菲法、交叉影响分析、可行</text>
+  <text x="317.0" y="68.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">性评价</text>
+  <rect x="2.0" y="74.2" width="434.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="33.0" y="88.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">对数据的要求</text>
+  <line x1="64.0" y1="74.2" x2="64.0" y2="96.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="69.0" y="88.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">长且口径一致的时间序列</text>
+  <line x1="188.0" y1="74.2" x2="188.0" y2="96.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="193.0" y="88.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">可识别的结构参数与因果机制</text>
+  <line x1="312.0" y1="74.2" x2="312.0" y2="96.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="317.0" y="88.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">领域内可及且异质的专家群体</text>
+  <rect x="2.0" y="96.2" width="434.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="33.0" y="110.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">关键假设</text>
+  <line x1="64.0" y1="96.2" x2="64.0" y2="118.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="69.0" y="110.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">趋势延续，结构不变</text>
+  <line x1="188.0" y1="96.2" x2="188.0" y2="118.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="193.0" y="110.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">参数与机制在预测期内稳定</text>
+  <line x1="312.0" y1="96.2" x2="312.0" y2="118.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="317.0" y="110.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">专家意见经匿名交换后趋稳</text>
+  <rect x="2.0" y="118.2" width="434.0" height="28.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="33.0" y="129.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">最典型的失效</text>
+  <text x="33.0" y="140.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">条件</text>
+  <line x1="64.0" y1="118.2" x2="64.0" y2="146.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="69.0" y="135.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">趋势中断、统计口径变化</text>
+  <line x1="188.0" y1="118.2" x2="188.0" y2="146.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="193.0" y="135.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">机制设定有误、遭遇外生冲击</text>
+  <line x1="312.0" y1="118.2" x2="312.0" y2="146.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="317.0" y="135.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">专家群体同质、议题高度政治化</text>
+  <rect x="2.0" y="146.4" width="434.0" height="28.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="33.0" y="158.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">必须报告的统</text>
+  <text x="33.0" y="168.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">计量</text>
+  <line x1="64.0" y1="146.4" x2="64.0" y2="174.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="69.0" y="163.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">预测区间</text>
+  <line x1="188.0" y1="146.4" x2="188.0" y2="174.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="193.0" y="163.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">参数估计与敏感性</text>
+  <line x1="312.0" y1="146.4" x2="312.0" y2="174.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="317.0" y="163.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">中位数与四分位距</text>
+  <rect x="2.0" y="174.6" width="434.0" height="22.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="33.0" y="188.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">最弱环节</text>
+  <line x1="64.0" y1="174.6" x2="64.0" y2="196.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="69.0" y="188.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">拐点</text>
+  <line x1="188.0" y1="174.6" x2="188.0" y2="196.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="193.0" y="188.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">参数不可识别</text>
+  <line x1="312.0" y1="174.6" x2="312.0" y2="196.6" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="317.0" y="188.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="start" opacity="1.0">从众与锚定</text>
+</svg>

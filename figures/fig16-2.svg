@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="214pt" viewBox="0 0 440 214">
+  <rect width="440" height="214" fill="#FFFFFF"/>
+  <rect x="9.0" y="40.0" width="58.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="38.0" y="55.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">中央</text>
+  <defs><marker id="ah2" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="38.0" y1="70.0" x2="38.0" y2="80.0" stroke="#333333" stroke-width="1.1" marker-end="url(#ah2)"/>
+  <rect x="5.0" y="82.0" width="66.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.25"/>
+  <text x="38.0" y="92.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">总体目标</text>
+  <text x="38.0" y="103.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">与原则</text>
+  <defs><marker id="ah7" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="69.0" y1="55.0" x2="77.0" y2="55.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah7)"/>
+  <rect x="79.0" y="40.0" width="58.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="108.0" y="55.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">省</text>
+  <defs><marker id="ah11" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="108.0" y1="70.0" x2="108.0" y2="80.0" stroke="#333333" stroke-width="1.1" marker-end="url(#ah11)"/>
+  <rect x="75.0" y="82.0" width="66.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.25"/>
+  <text x="108.0" y="92.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">区域安排</text>
+  <text x="108.0" y="103.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">与省内考核</text>
+  <text x="108.0" y="26.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" fill="#222222" text-anchor="middle" opacity="1.0">分解</text>
+  <defs><marker id="ah17" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="108.0" y1="30.0" x2="108.0" y2="38.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah17)"/>
+  <defs><marker id="ah19" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="139.0" y1="55.0" x2="147.0" y2="55.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah19)"/>
+  <rect x="149.0" y="40.0" width="58.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="178.0" y="55.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">市</text>
+  <defs><marker id="ah23" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="178.0" y1="70.0" x2="178.0" y2="80.0" stroke="#333333" stroke-width="1.1" marker-end="url(#ah23)"/>
+  <rect x="145.0" y="82.0" width="66.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.25"/>
+  <text x="178.0" y="92.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">实施方案</text>
+  <text x="178.0" y="103.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">与责任分工</text>
+  <text x="178.0" y="26.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" fill="#222222" text-anchor="middle" opacity="1.0">细化</text>
+  <defs><marker id="ah29" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="178.0" y1="30.0" x2="178.0" y2="38.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah29)"/>
+  <defs><marker id="ah31" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="209.0" y1="55.0" x2="217.0" y2="55.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah31)"/>
+  <rect x="219.0" y="40.0" width="58.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="248.0" y="55.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">县</text>
+  <defs><marker id="ah35" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="248.0" y1="70.0" x2="248.0" y2="80.0" stroke="#333333" stroke-width="1.1" marker-end="url(#ah35)"/>
+  <rect x="215.0" y="82.0" width="66.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.25"/>
+  <text x="248.0" y="92.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">具体任务</text>
+  <text x="248.0" y="103.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">与配套资源</text>
+  <text x="248.0" y="26.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" fill="#222222" text-anchor="middle" opacity="1.0">落实</text>
+  <defs><marker id="ah41" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="248.0" y1="30.0" x2="248.0" y2="38.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah41)"/>
+  <defs><marker id="ah43" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="279.0" y1="55.0" x2="287.0" y2="55.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah43)"/>
+  <rect x="289.0" y="40.0" width="58.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="318.0" y="55.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">乡镇（街道）</text>
+  <defs><marker id="ah47" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="318.0" y1="70.0" x2="318.0" y2="80.0" stroke="#333333" stroke-width="1.1" marker-end="url(#ah47)"/>
+  <rect x="285.0" y="82.0" width="66.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.25"/>
+  <text x="318.0" y="92.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">落地事项</text>
+  <text x="318.0" y="103.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">与验收材料</text>
+  <text x="318.0" y="26.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" fill="#222222" text-anchor="middle" opacity="1.0">执行</text>
+  <defs><marker id="ah53" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="318.0" y1="30.0" x2="318.0" y2="38.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah53)"/>
+  <rect x="360.0" y="34.0" width="62.0" height="44.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.25"/>
+  <text x="391.0" y="50.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">村与社区</text>
+  <text x="391.0" y="62.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">政策落地场所</text>
+  <defs><marker id="ah58" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="349.0" y1="55.0" x2="358.0" y2="55.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah58)"/>
+  <rect x="140.0" y="134.0" width="224.0" height="38.0" rx="0" fill="#FFFFFF" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="146.0" y="129.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">纠偏装置</text>
+  <rect x="148.0" y="142.0" width="38.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="167.0" y="153.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">巡视</text>
+  <rect x="190.0" y="142.0" width="38.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="209.0" y="153.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">督察</text>
+  <rect x="232.0" y="142.0" width="38.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="251.0" y="153.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">考核</text>
+  <rect x="274.0" y="142.0" width="38.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="293.0" y="153.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">问责</text>
+  <rect x="316.0" y="142.0" width="38.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="335.0" y="153.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">调研</text>
+  <defs><marker id="ah72" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="336.0" y1="172.0" x2="336.0" y2="194.0" stroke="#1A3A5C" stroke-width="1.2" marker-end="url(#ah72)"/>
+  <line x1="410.0" y1="78.0" x2="410.0" y2="196.0" stroke="#1A3A5C" stroke-width="1.2" stroke-dasharray="4,3" opacity="1.0"/>
+  <defs><marker id="ah75" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="410.0" y1="196.0" x2="28.0" y2="196.0" stroke="#1A3A5C" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#ah75)"/>
+  <text x="200.0" y="188.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#1A3A5C" text-anchor="middle" opacity="1.0">信息反馈：统计上报、材料汇总、抽查核验、实地调研</text>
+</svg>

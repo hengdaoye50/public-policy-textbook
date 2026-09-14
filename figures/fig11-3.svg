@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="230pt" viewBox="0 0 440 230">
+  <rect width="440" height="230" fill="#FFFFFF"/>
+  <rect x="18.0" y="8.0" width="244.0" height="34.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="140.0" y="30.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">具体政策合法性</text>
+  <rect x="274.0" y="8.0" width="74.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#666666" stroke-width="1.1" stroke-dasharray="4,3"/>
+  <text x="311.0" y="30.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" fill="#666666" text-anchor="middle" opacity="1.0">合法性存量</text>
+  <rect x="356.0" y="8.0" width="74.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#666666" stroke-width="1.1" stroke-dasharray="4,3"/>
+  <text x="393.0" y="30.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" fill="#666666" text-anchor="middle" opacity="1.0">合法性危机</text>
+  <line x1="154.0" y1="42.0" x2="154.0" y2="50.0" stroke="#333333" stroke-width="1.3" opacity="1.0"/>
+  <line x1="83.0" y1="50.0" x2="367.0" y2="50.0" stroke="#333333" stroke-width="1.3" opacity="1.0"/>
+  <line x1="311.0" y1="42.0" x2="311.0" y2="50.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="3,2.4" opacity="1.0"/>
+  <line x1="393.0" y1="42.0" x2="393.0" y2="50.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="3,2.4" opacity="1.0"/>
+  <defs><marker id="ah10" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="83.3" y1="50.0" x2="83.3" y2="62.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah10)"/>
+  <rect x="18.0" y="62.0" width="130.7" height="28.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="83.3" y="81.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">输入合法性</text>
+  <rect x="18.0" y="90.0" width="130.7" height="84.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="83.3" y="108.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">参与</text>
+  <line x1="36.0" y1="114.0" x2="130.7" y2="114.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="83.3" y="125.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">代表</text>
+  <line x1="36.0" y1="131.0" x2="130.7" y2="131.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="83.3" y="142.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">意见征集</text>
+  <line x1="36.0" y1="148.0" x2="130.7" y2="148.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="83.3" y="159.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">人大与政协</text>
+  <defs><marker id="ah22" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="223.9" y1="50.0" x2="223.9" y2="62.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah22)"/>
+  <rect x="158.6" y="62.0" width="130.7" height="28.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="223.9" y="81.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">输出合法性</text>
+  <rect x="158.6" y="90.0" width="130.7" height="84.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="223.9" y="108.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">绩效</text>
+  <line x1="176.6" y1="114.0" x2="271.3" y2="114.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="223.9" y="125.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">评估</text>
+  <line x1="176.6" y1="131.0" x2="271.3" y2="131.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="223.9" y="142.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">督查问责</text>
+  <line x1="176.6" y1="148.0" x2="271.3" y2="148.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="223.9" y="159.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">结果回应</text>
+  <defs><marker id="ah34" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="364.5" y1="50.0" x2="364.5" y2="62.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah34)"/>
+  <rect x="299.2" y="62.0" width="130.7" height="28.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="364.5" y="81.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.0" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">过程合法性</text>
+  <rect x="299.2" y="90.0" width="130.7" height="84.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="364.5" y="108.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#1A3A5C" text-anchor="middle" opacity="1.0">合法性审查</text>
+  <line x1="317.2" y1="114.0" x2="411.9" y2="114.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="364.5" y="125.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#1A3A5C" text-anchor="middle" opacity="1.0">专家论证</text>
+  <line x1="317.2" y1="131.0" x2="411.9" y2="131.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="364.5" y="142.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#1A3A5C" text-anchor="middle" opacity="1.0">集体讨论决定</text>
+  <line x1="317.2" y1="148.0" x2="411.9" y2="148.0" stroke="#666666" stroke-width="0.7" opacity="0.6"/>
+  <text x="364.5" y="159.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#1A3A5C" text-anchor="middle" opacity="1.0">公开</text>
+  <rect x="18.0" y="186.0" width="412.0" height="34.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.3"/>
+  <text x="224.0" y="202.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政治系统合法性</text>
+  <text x="224.0" y="215.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">韦伯：传统型 · 卡里斯玛型 · 法理型三类正当支配　｜　李普塞特：有效性支撑正当性</text>
+  <defs><marker id="ah49" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="83.3" y1="186.0" x2="83.3" y2="178.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah49)"/>
+  <defs><marker id="ah51" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="223.9" y1="186.0" x2="223.9" y2="178.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah51)"/>
+  <defs><marker id="ah53" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="364.5" y1="186.0" x2="364.5" y2="178.0" stroke="#333333" stroke-width="1.4" marker-end="url(#ah53)"/>
+</svg>

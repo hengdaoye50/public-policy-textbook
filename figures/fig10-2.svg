@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="266pt" viewBox="0 0 440 266">
+  <rect width="440" height="266" fill="#FFFFFF"/>
+  <rect x="14.0" y="12.0" width="76.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="52.0" y="27.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">诉求来源</text>
+  <rect x="14.0" y="40.0" width="76.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="52.0" y="59.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">公民个人诉求</text>
+  <rect x="14.0" y="76.0" width="76.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="52.0" y="95.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">基层与地方政府</text>
+  <rect x="14.0" y="112.0" width="76.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="52.0" y="131.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">媒体与网络舆论</text>
+  <rect x="14.0" y="148.0" width="76.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="52.0" y="167.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">代表委员</text>
+  <rect x="14.0" y="184.0" width="76.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.1"/>
+  <text x="52.0" y="203.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">研究与智囊机构</text>
+  <line x1="90.0" y1="55.0" x2="94.0" y2="55.0" stroke="#666666" stroke-width="1.0" opacity="1.0"/>
+  <line x1="90.0" y1="91.0" x2="94.0" y2="91.0" stroke="#666666" stroke-width="1.0" opacity="1.0"/>
+  <line x1="90.0" y1="127.0" x2="94.0" y2="127.0" stroke="#666666" stroke-width="1.0" opacity="1.0"/>
+  <line x1="90.0" y1="163.0" x2="94.0" y2="163.0" stroke="#666666" stroke-width="1.0" opacity="1.0"/>
+  <line x1="90.0" y1="199.0" x2="94.0" y2="199.0" stroke="#666666" stroke-width="1.0" opacity="1.0"/>
+  <line x1="94.0" y1="55.0" x2="94.0" y2="199.0" stroke="#666666" stroke-width="1.0" opacity="1.0"/>
+  <defs><marker id="ah18" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="94.0" y1="127.0" x2="104.0" y2="127.0" stroke="#333333" stroke-width="1.6" marker-end="url(#ah18)"/>
+  <rect x="96.0" y="12.0" width="270.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="131.0" y="27.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">通道（入口）</text>
+  <line x1="166.0" y1="12.0" x2="166.0" y2="34.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="208.5" y="27.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">筛选点</text>
+  <line x1="251.0" y1="12.0" x2="251.0" y2="34.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="278.5" y="27.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">加工方式</text>
+  <line x1="306.0" y1="12.0" x2="306.0" y2="34.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="336.0" y="27.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">抵达层级</text>
+  <rect x="96.0" y="34.0" width="270.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.0"/>
+  <line x1="166.0" y1="34.0" x2="166.0" y2="64.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="251.0" y1="34.0" x2="251.0" y2="64.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="306.0" y1="34.0" x2="306.0" y2="64.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="131.0" y="51.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">领导批示与调研</text>
+  <text x="208.5" y="46.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">文稿形成、可批示性</text>
+  <text x="208.5" y="57.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">职责范围</text>
+  <text x="278.5" y="51.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">批示后督办</text>
+  <text x="336.0" y="51.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">决策层</text>
+  <path d="M167.8,54.0 L174.2,54.0 L171.0,60.6 Z" fill="#1A3A5C" stroke="none" stroke-width="0.6"/>
+  <rect x="96.0" y="64.0" width="270.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <line x1="166.0" y1="64.0" x2="166.0" y2="94.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="251.0" y1="64.0" x2="251.0" y2="94.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="306.0" y1="64.0" x2="306.0" y2="94.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="131.0" y="76.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">人大代表建议</text>
+  <text x="131.0" y="87.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">与政协提案</text>
+  <text x="208.5" y="76.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">提出、立案与分类</text>
+  <text x="208.5" y="87.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">交办与承办</text>
+  <text x="278.5" y="81.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">重点督办</text>
+  <text x="336.0" y="81.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">人大与政协</text>
+  <path d="M167.8,84.0 L174.2,84.0 L171.0,90.6 Z" fill="#1A3A5C" stroke="none" stroke-width="0.6"/>
+  <rect x="96.0" y="94.0" width="270.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.0"/>
+  <line x1="166.0" y1="94.0" x2="166.0" y2="124.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="251.0" y1="94.0" x2="251.0" y2="124.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="306.0" y1="94.0" x2="306.0" y2="124.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="131.0" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">信访与网络问政</text>
+  <text x="208.5" y="106.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">转办、风险排序</text>
+  <text x="208.5" y="117.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">统计口径</text>
+  <text x="278.5" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">分级转办</text>
+  <text x="336.0" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">信访与网信部门</text>
+  <path d="M167.8,114.0 L174.2,114.0 L171.0,120.6 Z" fill="#1A3A5C" stroke="none" stroke-width="0.6"/>
+  <rect x="96.0" y="124.0" width="270.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <line x1="166.0" y1="124.0" x2="166.0" y2="154.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="251.0" y1="124.0" x2="251.0" y2="154.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="306.0" y1="124.0" x2="306.0" y2="154.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="131.0" y="141.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">诉求响应类机制</text>
+  <text x="208.5" y="136.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">诉求标准化</text>
+  <text x="208.5" y="147.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">诉求聚合</text>
+  <text x="278.5" y="141.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">考评倒逼</text>
+  <text x="336.0" y="141.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">政务热线平台</text>
+  <path d="M167.8,144.0 L174.2,144.0 L171.0,150.6 Z" fill="#1A3A5C" stroke="none" stroke-width="0.6"/>
+  <rect x="96.0" y="154.0" width="270.0" height="30.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.0"/>
+  <line x1="166.0" y1="154.0" x2="166.0" y2="184.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="251.0" y1="154.0" x2="251.0" y2="184.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="306.0" y1="154.0" x2="306.0" y2="184.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="131.0" y="171.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">媒体内参与舆情</text>
+  <text x="208.5" y="171.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">内参选题、报道价值</text>
+  <text x="278.5" y="171.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">舆情触发阈值</text>
+  <text x="336.0" y="171.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">宣传与网信部门</text>
+  <path d="M167.8,174.0 L174.2,174.0 L171.0,180.6 Z" fill="#1A3A5C" stroke="none" stroke-width="0.6"/>
+  <rect x="96.0" y="184.0" width="270.0" height="30.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <line x1="166.0" y1="184.0" x2="166.0" y2="214.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="251.0" y1="184.0" x2="251.0" y2="214.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="306.0" y1="184.0" x2="306.0" y2="214.0" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="131.0" y="201.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">智库与专家咨询</text>
+  <text x="208.5" y="196.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">委托方选题、专业准入</text>
+  <text x="208.5" y="207.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">相容性判断</text>
+  <text x="278.5" y="201.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">专业论证</text>
+  <text x="336.0" y="201.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">决策层与部门</text>
+  <path d="M167.8,204.0 L174.2,204.0 L171.0,210.6 Z" fill="#1A3A5C" stroke="none" stroke-width="0.6"/>
+  <line x1="372.0" y1="34.0" x2="372.0" y2="214.0" stroke="#333333" stroke-width="1.1" opacity="1.0"/>
+  <line x1="366.0" y1="49.0" x2="372.0" y2="49.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="366.0" y1="79.0" x2="372.0" y2="79.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="366.0" y1="109.0" x2="372.0" y2="109.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="366.0" y1="139.0" x2="372.0" y2="139.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="366.0" y1="169.0" x2="372.0" y2="169.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="366.0" y1="199.0" x2="372.0" y2="199.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <defs><marker id="ah95" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="372.0" y1="124.0" x2="380.0" y2="124.0" stroke="#333333" stroke-width="1.5" marker-end="url(#ah95)"/>
+  <rect x="380.0" y="34.0" width="50.0" height="180.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.3"/>
+  <text x="405.0" y="119.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">决策层</text>
+  <text x="405.0" y="134.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">议事日程</text>
+  <defs><marker id="ah100" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="208.5" y1="214.0" x2="208.5" y2="226.0" stroke="#1A3A5C" stroke-width="1.2" stroke-dasharray="3,2.4" marker-end="url(#ah100)"/>
+  <rect x="96.0" y="226.0" width="334.0" height="26.0" rx="0" fill="#FFFFFF" stroke="#1A3A5C" stroke-width="1.2" stroke-dasharray="4,3"/>
+  <text x="104.0" y="243.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#1A3A5C" text-anchor="start" opacity="1.0">议程排斥：被筛掉的诉求回到系统议程、转向其他通道或消失</text>
+</svg>

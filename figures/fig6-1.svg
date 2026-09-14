@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="246pt" viewBox="0 0 440 246">
+  <rect width="440" height="246" fill="#FFFFFF"/>
+  <rect x="162.0" y="14.0" width="88.0" height="28.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="206.0" y="29.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">问题界定与议程设置</text>
+  <rect x="264.2" y="53.0" width="88.0" height="28.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="308.2" y="68.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策方案形成</text>
+  <rect x="264.2" y="131.0" width="88.0" height="28.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="308.2" y="146.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策决定与合法化</text>
+  <rect x="162.0" y="170.0" width="88.0" height="28.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="206.0" y="185.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策执行</text>
+  <rect x="59.8" y="131.0" width="88.0" height="28.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="103.8" y="146.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策评估</text>
+  <rect x="59.8" y="53.0" width="88.0" height="28.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="103.8" y="68.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策调整或终结</text>
+  <defs><marker id="ph12" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M247.9,44.0 Q263.0,40.7 266.3,51.0" fill="none" stroke="#333333" stroke-width="1.25" marker-end="url(#ph12)"/>
+  <defs><marker id="ph14" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M308.2,83.0 Q317.2,106.0 308.2,129.0" fill="none" stroke="#333333" stroke-width="1.25" marker-end="url(#ph14)"/>
+  <defs><marker id="ph16" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M266.3,161.0 Q263.0,171.3 247.9,168.0" fill="none" stroke="#333333" stroke-width="1.25" marker-end="url(#ph16)"/>
+  <defs><marker id="ph18" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M164.1,168.0 Q149.0,171.3 145.7,161.0" fill="none" stroke="#333333" stroke-width="1.25" marker-end="url(#ph18)"/>
+  <defs><marker id="ph20" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M103.8,129.0 Q94.8,106.0 103.8,83.0" fill="none" stroke="#333333" stroke-width="1.25" marker-end="url(#ph20)"/>
+  <defs><marker id="ph22" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <path d="M145.7,51.0 Q149.0,40.7 164.1,44.0" fill="none" stroke="#333333" stroke-width="1.25" marker-end="url(#ph22)"/>
+  <text x="206.0" y="62.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">反馈回路</text>
+  <defs><marker id="ph25" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M147.8,138 Q156,90 186,42" fill="none" stroke="#1A3A5C" stroke-width="1.3" stroke-dasharray="4,2.6" marker-end="url(#ph25)"/>
+  <defs><marker id="ph27" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M264.2,138 Q256,90 226,42" fill="none" stroke="#1A3A5C" stroke-width="1.3" stroke-dasharray="4,2.6" marker-end="url(#ph27)"/>
+  <defs><marker id="ph29" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M238,170 Q290,128 300,81" fill="none" stroke="#1A3A5C" stroke-width="1.3" stroke-dasharray="4,2.6" marker-end="url(#ph29)"/>
+  <text x="206.0" y="88.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">评估→问题界定</text>
+  <text x="206.0" y="110.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">执行→方案形成</text>
+  <text x="206.0" y="132.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">决策→议程</text>
+  <rect x="366.0" y="14.0" width="68.0" height="26.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3" stroke-dasharray="3,2.2"/>
+  <text x="400.0" y="28.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策研究室</text>
+  <line x1="366.0" y1="28.0" x2="348.0" y2="50.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.4,2.2" opacity="1.0"/>
+  <rect x="334.0" y="166.0" width="74.0" height="26.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3" stroke-dasharray="3,2.2"/>
+  <text x="371.0" y="180.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">业务部门</text>
+  <line x1="334.0" y1="179.0" x2="252.0" y2="181.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.4,2.2" opacity="1.0"/>
+  <rect x="12.0" y="202.0" width="62.0" height="24.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3" stroke-dasharray="3,2.2"/>
+  <text x="43.0" y="215.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">评估机构</text>
+  <line x1="74.0" y1="211.0" x2="90.0" y2="161.0" stroke="#666666" stroke-width="1.0" stroke-dasharray="2.4,2.2" opacity="1.0"/>
+  <rect x="86.0" y="202.0" width="240.0" height="28.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.1"/>
+  <text x="206.0" y="212.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">三项常见批评</text>
+  <text x="206.0" y="223.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">界限模糊 · 缺少因果机制 · 低估执行的再塑造</text>
+</svg>

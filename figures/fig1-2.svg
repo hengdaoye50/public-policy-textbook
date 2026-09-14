@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="190pt" viewBox="0 0 440 190">
+  <rect width="440" height="190" fill="#FFFFFF"/>
+  <rect x="16.0" y="18.0" width="408.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="45.0" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">维度</text>
+  <line x1="74.0" y1="18.0" x2="74.0" y2="40.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="109.0" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">儒家</text>
+  <line x1="144.0" y1="18.0" x2="144.0" y2="40.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="179.0" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">道家</text>
+  <line x1="214.0" y1="18.0" x2="214.0" y2="40.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="249.0" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">墨家</text>
+  <line x1="284.0" y1="18.0" x2="284.0" y2="40.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="319.0" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">法家</text>
+  <line x1="354.0" y1="18.0" x2="354.0" y2="40.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="389.0" y="32.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">兵家</text>
+  <rect x="16.0" y="40.0" width="408.0" height="29.8" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="52.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策正当性来</text>
+  <text x="45.0" y="63.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">源</text>
+  <line x1="74.0" y1="40.0" x2="74.0" y2="69.8" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="79.0" y="52.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">德与民心（《孟</text>
+  <text x="79.0" y="63.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子·尽心下》）</text>
+  <line x1="144.0" y1="40.0" x2="144.0" y2="69.8" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="149.0" y="52.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">道法自然（《老</text>
+  <text x="149.0" y="63.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子》25章）</text>
+  <line x1="214.0" y1="40.0" x2="214.0" y2="69.8" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="219.0" y="52.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">兴天下之利（《</text>
+  <text x="219.0" y="63.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">墨子·兼爱》）</text>
+  <line x1="284.0" y1="40.0" x2="284.0" y2="69.8" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="289.0" y="52.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">法术势（《韩非</text>
+  <text x="289.0" y="63.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子·定法》）</text>
+  <line x1="354.0" y1="40.0" x2="354.0" y2="69.8" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="359.0" y="52.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">胜与不胜（《孙</text>
+  <text x="359.0" y="63.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子·计篇》）</text>
+  <rect x="16.0" y="69.8" width="408.0" height="29.8" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="87.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">政策工具偏好</text>
+  <line x1="74.0" y1="69.8" x2="74.0" y2="99.5" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="79.0" y="82.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">教化礼制（《论</text>
+  <text x="79.0" y="93.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">语·为政》）</text>
+  <line x1="144.0" y1="69.8" x2="144.0" y2="99.5" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="149.0" y="82.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">无为少扰（《老</text>
+  <text x="149.0" y="93.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子》57章）</text>
+  <line x1="214.0" y1="69.8" x2="214.0" y2="99.5" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="219.0" y="82.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">尚贤节用（《墨</text>
+  <text x="219.0" y="93.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子·尚贤》）</text>
+  <line x1="284.0" y1="69.8" x2="284.0" y2="99.5" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="289.0" y="82.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">赏罚二柄（《韩</text>
+  <text x="289.0" y="93.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">非子·二柄》）</text>
+  <line x1="354.0" y1="69.8" x2="354.0" y2="99.5" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="359.0" y="82.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">庙算伐谋（《孙</text>
+  <text x="359.0" y="93.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子·谋攻》）</text>
+  <rect x="16.0" y="99.5" width="408.0" height="29.8" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">国家与社会关</text>
+  <text x="45.0" y="122.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">系</text>
+  <line x1="74.0" y1="99.5" x2="74.0" y2="129.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="79.0" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">教化关系（《论</text>
+  <text x="79.0" y="122.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">语·颜渊》）</text>
+  <line x1="144.0" y1="99.5" x2="144.0" y2="129.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="149.0" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">自治关系（《老</text>
+  <text x="149.0" y="122.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子》80章）</text>
+  <line x1="214.0" y1="99.5" x2="214.0" y2="129.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="219.0" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">尚同关系（《墨</text>
+  <text x="219.0" y="122.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子·尚同》）</text>
+  <line x1="284.0" y1="99.5" x2="284.0" y2="129.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="289.0" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">控制关系（《韩</text>
+  <text x="289.0" y="122.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">非子·有度》）</text>
+  <line x1="354.0" y1="99.5" x2="354.0" y2="129.3" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="359.0" y="111.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">因势关系（《孙</text>
+  <text x="359.0" y="122.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#333333" text-anchor="start" opacity="1.0">子·势篇》）</text>
+  <rect x="16.0" y="137.3" width="408.0" height="32.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <text x="45.0" y="151.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">对人性行为</text>
+  <text x="45.0" y="162.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">的假设</text>
+  <line x1="74.0" y1="137.3" x2="74.0" y2="169.3" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="144.0" y1="137.3" x2="144.0" y2="169.3" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="214.0" y1="137.3" x2="214.0" y2="169.3" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="284.0" y1="137.3" x2="284.0" y2="169.3" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <line x1="354.0" y1="137.3" x2="354.0" y2="169.3" stroke="#333333" stroke-width="0.9" opacity="1.0"/>
+  <text x="109.0" y="157.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">性可教化</text>
+  <text x="179.0" y="157.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">性本自然</text>
+  <text x="249.0" y="157.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">趋利兼惠</text>
+  <text x="319.0" y="157.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">畏罚贪赏</text>
+  <text x="389.0" y="157.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="middle" opacity="1.0">无信可恃</text>
+</svg>

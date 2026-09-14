@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="150pt" viewBox="0 0 440 150">
+  <rect width="440" height="150" fill="#FFFFFF"/>
+  <line x1="40.0" y1="86.0" x2="390.0" y2="86.0" stroke="#333333" stroke-width="1.4" opacity="1.0"/>
+  <path d="M402,86 l-8,-3.4 l0,6.8 z" fill="#333333" stroke="#333333" stroke-width="0.6"/>
+  <rect x="63.6" y="81.6" width="8.8" height="8.8" rx="4.4" fill="#1A3A5C" stroke="none" stroke-width="0"/>
+  <text x="68.0" y="40.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">20世纪初—30年代</text>
+  <text x="68.0" y="54.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">核心问题：测量是否可靠</text>
+  <text x="68.0" y="70.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">第一代 测量</text>
+  <text x="68.0" y="106.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#222222" text-anchor="middle" opacity="1.0">角色：测量者</text>
+  <text x="68.0" y="120.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">测验、量表与</text>
+  <text x="68.0" y="131.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">抽样统计</text>
+  <defs><marker id="ah9" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="81.0" y1="86.0" x2="159.0" y2="86.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah9)"/>
+  <rect x="167.6" y="81.6" width="8.8" height="8.8" rx="4.4" fill="#1A3A5C" stroke="none" stroke-width="0"/>
+  <text x="172.0" y="40.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">30年代—60年代</text>
+  <text x="172.0" y="54.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">核心问题：目标是否达成</text>
+  <text x="172.0" y="70.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">第二代 描述</text>
+  <text x="172.0" y="106.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#222222" text-anchor="middle" opacity="1.0">角色：描述者</text>
+  <text x="172.0" y="120.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">目标达成度</text>
+  <text x="172.0" y="131.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">优缺点并列呈现</text>
+  <defs><marker id="ah18" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="185.0" y1="86.0" x2="263.0" y2="86.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah18)"/>
+  <rect x="271.6" y="81.6" width="8.8" height="8.8" rx="4.4" fill="#1A3A5C" stroke="none" stroke-width="0"/>
+  <text x="276.0" y="40.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">60年代—70年代</text>
+  <text x="276.0" y="54.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">核心问题：结果是否值得</text>
+  <text x="276.0" y="70.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">第三代 判断</text>
+  <text x="276.0" y="106.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#222222" text-anchor="middle" opacity="1.0">角色：判断者</text>
+  <text x="276.0" y="120.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">评估标准</text>
+  <text x="276.0" y="131.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">价值判断的依据</text>
+  <defs><marker id="ah27" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="289.0" y1="86.0" x2="367.0" y2="86.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah27)"/>
+  <rect x="375.6" y="81.6" width="8.8" height="8.8" rx="4.4" fill="#1A3A5C" stroke="none" stroke-width="0"/>
+  <text x="380.0" y="40.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">80年代以后</text>
+  <text x="380.0" y="54.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#222222" text-anchor="middle" opacity="1.0">核心问题：不同立场如何协商</text>
+  <text x="380.0" y="70.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">第四代 回应—建构</text>
+  <text x="380.0" y="106.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#222222" text-anchor="middle" opacity="1.0">角色：协商的组织者</text>
+  <text x="380.0" y="120.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">利益相关者的</text>
+  <text x="380.0" y="131.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">主张与争议</text>
+</svg>

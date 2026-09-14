@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="332pt" viewBox="0 0 440 332">
+  <rect width="440" height="332" fill="#FFFFFF"/>
+  <text x="30.0" y="18.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="start" opacity="1.0">政府介入程度低</text>
+  <text x="410.0" y="18.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="end" opacity="1.0">政府介入程度高</text>
+  <defs><marker id="ah2" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="30.0" y1="26.0" x2="414.0" y2="26.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah2)"/>
+  <rect x="30.0" y="34.0" width="126.7" height="78.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <text x="93.3" y="50.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">自愿型</text>
+  <line x1="40.0" y1="56.0" x2="146.7" y2="56.0" stroke="#666666" stroke-width="0.8" opacity="1.0"/>
+  <text x="93.3" y="78.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">家庭与社区</text>
+  <text x="93.3" y="93.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">自愿型组织</text>
+  <text x="93.3" y="108.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">私人市场</text>
+  <rect x="156.7" y="34.0" width="126.7" height="78.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.2"/>
+  <text x="220.0" y="50.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">混合型</text>
+  <line x1="166.7" y1="56.0" x2="273.4" y2="56.0" stroke="#666666" stroke-width="0.8" opacity="1.0"/>
+  <text x="220.0" y="70.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">信息发布与劝诫</text>
+  <text x="220.0" y="82.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">补贴</text>
+  <text x="220.0" y="94.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">产权拍卖</text>
+  <text x="220.0" y="106.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">税收与使用者付费</text>
+  <rect x="283.4" y="34.0" width="126.7" height="78.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <text x="346.8" y="50.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">强制型</text>
+  <line x1="293.4" y1="56.0" x2="400.1" y2="56.0" stroke="#666666" stroke-width="0.8" opacity="1.0"/>
+  <text x="346.8" y="78.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">行政管制</text>
+  <text x="346.8" y="93.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">公共企业</text>
+  <text x="346.8" y="108.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#333333" text-anchor="middle" opacity="1.0">直接提供</text>
+  <text x="250.0" y="126.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#666666" text-anchor="middle" opacity="1.0">政府动用资源的可让渡性</text>
+  <rect x="130.0" y="134.0" width="240.0" height="156.0" rx="0" fill="none" stroke="#1A3A5C" stroke-width="1.6"/>
+  <line x1="250.0" y1="134.0" x2="250.0" y2="290.0" stroke="#1A3A5C" stroke-width="1.6" opacity="1.0"/>
+  <line x1="130.0" y1="212.0" x2="370.0" y2="212.0" stroke="#1A3A5C" stroke-width="1.6" opacity="1.0"/>
+  <rect x="130.0" y="134.0" width="120.0" height="78.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.0"/>
+  <text x="190.0" y="167.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">组织性工具</text>
+  <text x="190.0" y="183.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">直接提供、公共企业、</text>
+  <text x="190.0" y="193.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">机构设置、人员动员</text>
+  <rect x="250.0" y="134.0" width="120.0" height="78.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <text x="310.0" y="167.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">规制性工具</text>
+  <text x="310.0" y="183.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">法律法规、禁令、标准、</text>
+  <text x="310.0" y="193.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">许可、处罚</text>
+  <rect x="130.0" y="212.0" width="120.0" height="78.0" rx="0" fill="#F2F4F7" stroke="#333333" stroke-width="1.0"/>
+  <text x="190.0" y="245.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">引导性工具</text>
+  <text x="190.0" y="261.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">信息发布、劝诫、培训、</text>
+  <text x="190.0" y="271.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">能力建设、典型示范</text>
+  <rect x="250.0" y="212.0" width="120.0" height="78.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.0"/>
+  <text x="310.0" y="245.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">激励性工具</text>
+  <text x="310.0" y="261.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">补贴、税收、凭单、</text>
+  <text x="310.0" y="271.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#333333" text-anchor="middle" opacity="1.0">产权拍卖、用者付费</text>
+  <text x="376.0" y="168.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">不可让渡</text>
+  <text x="376.0" y="180.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="start" opacity="1.0">信息与组织</text>
+  <text x="376.0" y="246.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="start" opacity="1.0">可让渡</text>
+  <text x="376.0" y="258.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="start" opacity="1.0">权威与资金</text>
+  <defs><marker id="ah47" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="114.0" y1="138.0" x2="114.0" y2="286.0" stroke="#1A3A5C" stroke-width="1.5" marker-end="url(#ah47)"/>
+  <defs><marker id="ah49" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <line x1="114.0" y1="286.0" x2="114.0" y2="138.0" stroke="#1A3A5C" stroke-width="1.5" marker-end="url(#ah49)"/>
+  <text x="106.0" y="198.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" font-weight="bold" fill="#1A3A5C" text-anchor="end" opacity="1.0">直接性（萨拉蒙）</text>
+  <text x="106.0" y="210.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="end" opacity="1.0">横贯四象限</text>
+  <text x="106.0" y="222.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">直接提供 ↔ 合同外包</text>
+  <defs><marker id="ah54" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="130.0" y1="298.0" x2="374.0" y2="298.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah54)"/>
+  <text x="124.0" y="302.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="end" opacity="1.0">低</text>
+  <text x="378.0" y="302.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="start" opacity="1.0">高</text>
+  <text x="250.0" y="318.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#666666" text-anchor="middle" opacity="1.0">政府介入强度</text>
+</svg>

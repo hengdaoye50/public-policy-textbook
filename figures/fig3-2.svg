@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="288pt" viewBox="0 0 440 288">
+  <rect width="440" height="288" fill="#FFFFFF"/>
+  <rect x="76.0" y="18.0" width="174.0" height="24.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <rect x="250.0" y="18.0" width="174.0" height="24.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="163.0" y="34.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">市场失灵</text>
+  <text x="337.0" y="34.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">政府失灵</text>
+  <rect x="16.0" y="42.0" width="408.0" height="52.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <line x1="76.0" y1="42.0" x2="76.0" y2="94.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="250.0" y1="42.0" x2="250.0" y2="94.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="46.0" y="68.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">典型表现</text>
+  <text x="82.0" y="62.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">公共物品供给不足、外部性、自然垄断定价、</text>
+  <text x="82.0" y="73.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">信息不对称</text>
+  <text x="256.0" y="62.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">偏好加总困难、寻租与利益俘获、多任务下弱</text>
+  <text x="256.0" y="73.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">激励、政策时滞</text>
+  <rect x="16.0" y="94.0" width="408.0" height="52.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <line x1="76.0" y1="94.0" x2="76.0" y2="146.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="250.0" y1="94.0" x2="250.0" y2="146.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="46.0" y="120.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">成因</text>
+  <text x="82.0" y="114.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">非排他性与非竞争性、产权难以界定、规模经</text>
+  <text x="82.0" y="125.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">济、信息分布不均</text>
+  <text x="256.0" y="114.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">集体偏好无法加总、公共权力制造稀缺租金、</text>
+  <text x="256.0" y="125.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">产出难以度量、知识分散于个体</text>
+  <rect x="16.0" y="146.0" width="408.0" height="52.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <line x1="76.0" y1="146.0" x2="76.0" y2="198.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="250.0" y1="146.0" x2="250.0" y2="198.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="46.0" y="172.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">能否自我纠正</text>
+  <text x="82.0" y="166.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">公共物品与自然垄断不能；外部性在交易成本</text>
+  <text x="82.0" y="177.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">足够低时可以；信息不对称可由信息披露部分</text>
+  <text x="82.0" y="188.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">缓解</text>
+  <text x="256.0" y="166.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">偏好加总与知识分散不能；寻租与弱激励可在</text>
+  <text x="256.0" y="177.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">一定程度上被制度约束</text>
+  <rect x="16.0" y="198.0" width="408.0" height="76.0" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <line x1="76.0" y1="198.0" x2="76.0" y2="274.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <line x1="250.0" y1="198.0" x2="250.0" y2="274.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="46.0" y="228.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">另一机制能否</text>
+  <text x="46.0" y="239.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">修补</text>
+  <line x1="250.0" y1="202.0" x2="250.0" y2="270.0" stroke="#666666" stroke-width="1.2" stroke-dasharray="3.4,2.6" opacity="1.0"/>
+  <defs><marker id="ah35" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="242.0" y1="234.0" x2="84.0" y2="234.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah35)"/>
+  <defs><marker id="ah37" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="258.0" y1="234.0" x2="416.0" y2="234.0" stroke="#333333" stroke-width="1.3" marker-end="url(#ah37)"/>
+  <text x="82.0" y="216.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">多数可由政府机制修补；无支付能力者除外</text>
+  <rect x="82.0" y="244.0" width="88.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#666666" stroke-width="1.0" stroke-dasharray="3,2.2"/>
+  <text x="126.0" y="258.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">原理性限制</text>
+  <defs><marker id="ah42" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="242.0" y1="254.0" x2="176.0" y2="254.0" stroke="#666666" stroke-width="1.2" stroke-dasharray="3.2,2.4" marker-end="url(#ah42)"/>
+  <text x="256.0" y="216.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" fill="#222222" text-anchor="start" opacity="1.0">多数可由市场与社会修补；知识不足者除外</text>
+  <rect x="330.0" y="244.0" width="88.0" height="20.0" rx="0" fill="#F2F4F7" stroke="#666666" stroke-width="1.0" stroke-dasharray="3,2.2"/>
+  <text x="374.0" y="258.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">原理性限制</text>
+  <defs><marker id="ah47" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#666666"/></marker></defs>
+  <line x1="258.0" y1="254.0" x2="324.0" y2="254.0" stroke="#666666" stroke-width="1.2" stroke-dasharray="3.2,2.4" marker-end="url(#ah47)"/>
+</svg>

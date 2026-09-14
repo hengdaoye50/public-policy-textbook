@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="233pt" viewBox="0 0 440 233">
+  <rect width="440" height="233" fill="#FFFFFF"/>
+  <rect x="14.0" y="8.0" width="412.0" height="22.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="66.0" y="22.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">标准</text>
+  <line x1="118.0" y1="8.0" x2="118.0" y2="30.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="184.0" y="22.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">提问方式</text>
+  <line x1="250.0" y1="8.0" x2="250.0" y2="30.0" stroke="#1A3A5C" stroke-width="1.0" opacity="1.0"/>
+  <text x="338.0" y="22.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.6" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">判断类型与主要失效情形</text>
+  <rect x="14.0" y="30.0" width="412.0" height="31.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="66.0" y="42.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">效益</text>
+  <text x="66.0" y="54.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.700000000000001" fill="#666666" text-anchor="middle" opacity="1.0">effectiveness</text>
+  <line x1="118.0" y1="30.0" x2="118.0" y2="61.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="124.0" y="48.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#222222" text-anchor="start" opacity="1.0">是否实现了预期目标</text>
+  <line x1="250.0" y1="30.0" x2="250.0" y2="61.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="48.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#333333" text-anchor="start" opacity="1.0">事实判断。失效情形：以指标替代目标</text>
+  <rect x="14.0" y="61.2" width="412.0" height="31.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="66.0" y="74.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">效率</text>
+  <text x="66.0" y="85.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.700000000000001" fill="#666666" text-anchor="middle" opacity="1.0">efficiency</text>
+  <line x1="118.0" y1="61.2" x2="118.0" y2="92.5" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="124.0" y="79.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#222222" text-anchor="start" opacity="1.0">需要付出多少努力</text>
+  <line x1="250.0" y1="61.2" x2="250.0" y2="92.5" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="79.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#333333" text-anchor="start" opacity="1.0">事实判断。失效情形：以指标替代目标</text>
+  <rect x="14.0" y="92.5" width="412.0" height="31.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="66.0" y="105.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">充分性</text>
+  <text x="66.0" y="116.9" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.700000000000001" fill="#666666" text-anchor="middle" opacity="1.0">adequacy</text>
+  <line x1="118.0" y1="92.5" x2="118.0" y2="123.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="124.0" y="111.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#222222" text-anchor="start" opacity="1.0">效益满足需要的程度</text>
+  <line x1="250.0" y1="92.5" x2="250.0" y2="123.7" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="111.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#333333" text-anchor="start" opacity="1.0">跨事实与价值判断。失效情形：忽略需要总量</text>
+  <rect x="14.0" y="123.7" width="412.0" height="31.2" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="14.0" y="123.7" width="412.0" height="31.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="66.0" y="136.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">公正性</text>
+  <text x="66.0" y="148.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.700000000000001" fill="#666666" text-anchor="middle" opacity="1.0">equity</text>
+  <line x1="118.0" y1="123.7" x2="118.0" y2="155.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="124.0" y="142.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#222222" text-anchor="start" opacity="1.0">效果如何在群体间分配</text>
+  <line x1="250.0" y1="123.7" x2="250.0" y2="155.0" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="142.3" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#333333" text-anchor="start" opacity="1.0">价值判断。失效情形：只看总量不看分布</text>
+  <rect x="14.0" y="155.0" width="412.0" height="31.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="66.0" y="167.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">回应性</text>
+  <text x="66.0" y="179.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.700000000000001" fill="#666666" text-anchor="middle" opacity="1.0">responsiveness</text>
+  <line x1="118.0" y1="155.0" x2="118.0" y2="186.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="124.0" y="173.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#222222" text-anchor="start" opacity="1.0">是否回应特定群体的需要与偏好</text>
+  <line x1="250.0" y1="155.0" x2="250.0" y2="186.2" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="173.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#333333" text-anchor="start" opacity="1.0">价值判断。失效情形：以满意度代替回应性</text>
+  <rect x="14.0" y="186.2" width="412.0" height="31.2" rx="0" fill="#F2F4F7" stroke="none" stroke-width="0"/>
+  <rect x="14.0" y="186.2" width="412.0" height="31.2" rx="0" fill="none" stroke="#333333" stroke-width="1.0"/>
+  <text x="66.0" y="199.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">适当性</text>
+  <text x="66.0" y="210.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.700000000000001" fill="#666666" text-anchor="middle" opacity="1.0">appropriateness</text>
+  <line x1="118.0" y1="186.2" x2="118.0" y2="217.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="124.0" y="199.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#222222" text-anchor="start" opacity="1.0">目标与手段是否符合</text>
+  <text x="124.0" y="210.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#222222" text-anchor="start" opacity="1.0">社会总体期望</text>
+  <line x1="250.0" y1="186.2" x2="250.0" y2="217.4" stroke="#333333" stroke-width="1.0" opacity="1.0"/>
+  <text x="256.0" y="204.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.3" fill="#333333" text-anchor="start" opacity="1.0">价值判断。失效情形：被形式化处理</text>
+</svg>

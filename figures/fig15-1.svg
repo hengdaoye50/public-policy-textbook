@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="272pt" viewBox="0 0 440 272">
+  <rect width="440" height="272" fill="#FFFFFF"/>
+  <rect x="74.0" y="22.0" width="174.0" height="100.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <rect x="248.0" y="22.0" width="174.0" height="100.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <rect x="74.0" y="122.0" width="174.0" height="100.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <rect x="248.0" y="122.0" width="174.0" height="100.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.2"/>
+  <rect x="249.0" y="23.0" width="172.0" height="98.0" rx="0" fill="#E4EAF1" stroke="#1A3A5C" stroke-width="1.4"/>
+  <text x="161.0" y="63.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">快速工具替换</text>
+  <text x="161.0" y="78.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">20世纪80年代公共服务</text>
+  <text x="161.0" y="90.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">合同外包</text>
+  <text x="335.0" y="52.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.4" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">间断—范式转换</text>
+  <text x="335.0" y="67.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">霍尔所研究的英国1976年</text>
+  <text x="335.0" y="78.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">货币政策转向；郭俊华等</text>
+  <text x="335.0" y="90.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">分析的残疾人集中就业政策</text>
+  <text x="335.0" y="101.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">目标跳变</text>
+  <text x="161.0" y="163.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">渐进调适</text>
+  <text x="161.0" y="178.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">林德布洛姆的渐进主义；</text>
+  <text x="161.0" y="190.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">中国价格改革双轨制并轨</text>
+  <text x="335.0" y="163.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="9.4" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">渐进式范式漂移</text>
+  <text x="335.0" y="178.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">中国从“社会管理”到</text>
+  <text x="335.0" y="190.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" fill="#666666" text-anchor="middle" opacity="1.0">“社会治理”的表述演进</text>
+  <defs><marker id="ah19" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="74.0" y1="236.0" x2="74.0" y2="14.0" stroke="#333333" stroke-width="1.6" marker-end="url(#ah19)"/>
+  <text x="82.0" y="12.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="start" opacity="1.0">变化节奏</text>
+  <text x="62.0" y="74.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="end" opacity="1.0">集中突变</text>
+  <text x="62.0" y="174.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.4" font-weight="bold" fill="#1A3A5C" text-anchor="end" opacity="1.0">渐进展开</text>
+  <defs><marker id="ah24" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="74.0" y1="236.0" x2="426.0" y2="236.0" stroke="#333333" stroke-width="1.6" marker-end="url(#ah24)"/>
+  <text x="426.0" y="230.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" font-weight="bold" fill="#222222" text-anchor="end" opacity="1.0">变化幅度</text>
+  <line x1="118.0" y1="236.0" x2="118.0" y2="242.0" stroke="#333333" stroke-width="1.1" opacity="1.0"/>
+  <text x="118.0" y="254.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#222222" text-anchor="middle" opacity="1.0">工具设定调整</text>
+  <line x1="204.0" y1="236.0" x2="204.0" y2="242.0" stroke="#333333" stroke-width="1.1" opacity="1.0"/>
+  <text x="204.0" y="254.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#222222" text-anchor="middle" opacity="1.0">工具本身更换</text>
+  <line x1="335.0" y1="236.0" x2="335.0" y2="242.0" stroke="#333333" stroke-width="1.1" opacity="1.0"/>
+  <text x="335.0" y="254.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.2" fill="#222222" text-anchor="middle" opacity="1.0">目标与观念框架转换</text>
+</svg>

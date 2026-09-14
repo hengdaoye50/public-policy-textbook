@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440pt" height="246pt" viewBox="0 0 440 246">
+  <rect width="440" height="246" fill="#FFFFFF"/>
+  <text x="36.0" y="118.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">环节</text>
+  <text x="36.0" y="52.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">决策路径</text>
+  <text x="36.0" y="172.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="end" opacity="1.0">断点</text>
+  <text x="36.0" y="16.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="end" opacity="1.0">责任主体</text>
+  <text x="65.0" y="16.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">执法部门</text>
+  <text x="123.0" y="16.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">技术公司</text>
+  <text x="181.0" y="16.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">采购部门</text>
+  <text x="239.0" y="16.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">算法系统</text>
+  <text x="297.0" y="16.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">使用部门</text>
+  <text x="355.0" y="16.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">一线人员</text>
+  <text x="413.0" y="16.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">救济机关</text>
+  <text x="326.0" y="40.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">增强化决策：保留人工决定与署名</text>
+  <text x="326.0" y="62.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#1A3A5C" text-anchor="middle" opacity="1.0">自动化决策：无人类作者</text>
+  <defs><marker id="ph13" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M239.0,80 L239.0,46 L413.0,46 L413.0,78" fill="none" stroke="#1A3A5C" stroke-width="1.1" marker-end="url(#ph13)"/>
+  <defs><marker id="ph15" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M239.0,80 L239.0,68 L413.0,68 L413.0,78" fill="none" stroke="#1A3A5C" stroke-width="1.1" marker-end="url(#ph15)"/>
+  <rect x="40.0" y="80.0" width="50.0" height="70.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="65.0" y="98.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">训练数据</text>
+  <text x="65.0" y="109.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">来源</text>
+  <text x="65.0" y="124.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">执法记录</text>
+  <text x="65.0" y="134.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">业务数据</text>
+  <defs><marker id="ah22" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="90.0" y1="115.0" x2="98.0" y2="115.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah22)"/>
+  <rect x="98.0" y="80.0" width="50.0" height="70.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="123.0" y="98.4" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">模型开发</text>
+  <text x="123.0" y="109.8" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">与训练</text>
+  <text x="123.0" y="124.2" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">技术公司</text>
+  <text x="123.0" y="134.7" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">参数阈值</text>
+  <defs><marker id="ah29" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="148.0" y1="115.0" x2="156.0" y2="115.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah29)"/>
+  <rect x="156.0" y="80.0" width="50.0" height="70.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="181.0" y="104.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">采购与部署</text>
+  <text x="181.0" y="118.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">立项验收</text>
+  <text x="181.0" y="129.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">上线审批</text>
+  <defs><marker id="ah35" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="206.0" y1="115.0" x2="214.0" y2="115.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah35)"/>
+  <rect x="214.0" y="80.0" width="50.0" height="70.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="239.0" y="104.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">决定生成</text>
+  <text x="239.0" y="118.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">输出建议</text>
+  <text x="239.0" y="129.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">直接生成</text>
+  <defs><marker id="ah41" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="264.0" y1="115.0" x2="272.0" y2="115.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah41)"/>
+  <rect x="272.0" y="80.0" width="50.0" height="70.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="297.0" y="104.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">送达与说明</text>
+  <text x="297.0" y="118.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">是否告知</text>
+  <text x="297.0" y="129.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">告知程度</text>
+  <defs><marker id="ah47" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="322.0" y1="115.0" x2="330.0" y2="115.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah47)"/>
+  <rect x="330.0" y="80.0" width="50.0" height="70.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="355.0" y="104.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">执行</text>
+  <text x="355.0" y="118.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">复核执行</text>
+  <text x="355.0" y="129.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">照单执行</text>
+  <defs><marker id="ah53" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#333333"/></marker></defs>
+  <line x1="380.0" y1="115.0" x2="388.0" y2="115.0" stroke="#333333" stroke-width="1.2" marker-end="url(#ah53)"/>
+  <rect x="388.0" y="80.0" width="50.0" height="70.0" rx="0" fill="#FFFFFF" stroke="#333333" stroke-width="1.3"/>
+  <text x="413.0" y="104.1" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="8.0" font-weight="bold" fill="#222222" text-anchor="middle" opacity="1.0">救济</text>
+  <text x="413.0" y="118.5" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">申诉复核</text>
+  <text x="413.0" y="129.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">更正赔偿</text>
+  <rect x="214.0" y="158.0" width="104.0" height="26.0" rx="0" fill="#FFFFFF" stroke="#1A3A5C" stroke-width="1.3" stroke-dasharray="3.4,2.4"/>
+  <text x="266.0" y="168.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">决定无人类作者</text>
+  <defs><marker id="ph61" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M239.0,150 L266.0,158" fill="none" stroke="#1A3A5C" stroke-width="1.1" stroke-dasharray="3,2.5" marker-end="url(#ph61)"/>
+  <rect x="44.0" y="158.0" width="104.0" height="26.0" rx="0" fill="#FFFFFF" stroke="#1A3A5C" stroke-width="1.3" stroke-dasharray="3.4,2.4"/>
+  <text x="96.0" y="168.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">责任主体为外部公司</text>
+  <defs><marker id="ph65" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M123.0,150 L96.0,158" fill="none" stroke="#1A3A5C" stroke-width="1.1" stroke-dasharray="3,2.5" marker-end="url(#ph65)"/>
+  <rect x="129.0" y="198.0" width="104.0" height="26.0" rx="0" fill="#FFFFFF" stroke="#1A3A5C" stroke-width="1.3" stroke-dasharray="3.4,2.4"/>
+  <text x="181.0" y="208.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">验收标准缺少算法条款</text>
+  <defs><marker id="ph69" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M181.0,150 L181.0,198" fill="none" stroke="#1A3A5C" stroke-width="1.1" stroke-dasharray="3,2.5" marker-end="url(#ph69)"/>
+  <rect x="333.0" y="198.0" width="104.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1A3A5C" stroke-width="1.3" stroke-dasharray="3.4,2.4"/>
+  <text x="385.0" y="212.0" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.8" font-weight="bold" fill="#1A3A5C" text-anchor="middle" opacity="1.0">无受理机构，或受理机构</text>
+  <text x="385.0" y="223.6" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="7.6" fill="#666666" text-anchor="middle" opacity="1.0">即原决定机关</text>
+  <defs><marker id="ph74" markerWidth="6" markerHeight="6" refX="5.2" refY="3" orient="auto"><path d="M0,0.6 L5.6,3 L0,5.4 z" fill="#1A3A5C"/></marker></defs>
+  <path d="M413.0,150 L385.0,198" fill="none" stroke="#1A3A5C" stroke-width="1.1" stroke-dasharray="3,2.5" marker-end="url(#ph74)"/>
+</svg>
