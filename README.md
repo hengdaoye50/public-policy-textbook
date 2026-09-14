@@ -7,6 +7,7 @@
 - 网站预览（部署后）：`https://jinhuazhang.top/publicpolicy/`
 - 正文源文件：[`textbook/`](./textbook)
 - 插图（SVG）：[`figures/`](./figures)
+- 教材与专著资料：[`materials/books/`](./materials)（Git LFS；不含期刊论文全文）
 - 参考文献：[`references/参考文献.md`](./references/参考文献.md)
 - 贡献指南：[`CONTRIBUTING.md`](./CONTRIBUTING.md)
 
